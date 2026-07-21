@@ -31,35 +31,35 @@
 <p align="left"><strong>Principais:</strong></p>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="logo java" title="Java" />
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="40" alt="logo java" title="Java" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="35" alt="logo spring" title="Spring Boot" />
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" width="40" alt="logo spring" title="Spring Boot" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="logo javascript" title="JavaScript" />
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="40" alt="logo javascript" title="JavaScript" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="logo html5" title="HTML5" />
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="40" alt="logo html5" title="HTML5" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="logo css3" title="CSS3" />
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="40" alt="logo css3" title="CSS3" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="35" alt="logo wordpress" title="WordPress" />
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" width="40" alt="logo wordpress" title="WordPress" />
 </div>
 
 <p align="left"><strong>Também trabalho com:</strong></p>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" alt="logo nodejs" title="Node.js" />
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="40" alt="logo nodejs" title="Node.js" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="logo python" title="Python" />
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="40" alt="logo python" title="Python" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="logo mysql" title="MySQL" />
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="40" alt="logo mysql" title="MySQL" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="35" alt="logo postgresql" title="PostgreSQL" />
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="40" alt="logo postgresql" title="PostgreSQL" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="35" alt="logo mongodb" title="MongoDB" />
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="40" alt="logo mongodb" title="MongoDB" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="logo git" title="Git" />
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="40" alt="logo git" title="Git" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35" alt="logo vscode" title="VS Code" />
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="40" alt="logo vscode" title="VS Code" />
 </div>
 
 ###
@@ -73,19 +73,6 @@
   <img src="https://img.shields.io/static/v1?message=Organiza%C3%A7%C3%A3o&label=&color=44475A&style=for-the-badge" height="30" alt="Badge organização" />
   <img src="https://img.shields.io/static/v1?message=Aprendizado%20Cont%C3%ADnuo&label=&color=44475A&style=for-the-badge" height="30" alt="Badge aprendizado contínuo" />
   <img src="https://img.shields.io/static/v1?message=Proatividade&label=&color=44475A&style=for-the-badge" height="30" alt="Badge proatividade" />
-</div>
-
-###
-
-<h2 align="left">📈 Estatísticas do GitHub</h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=llypeDev&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=pt-br&hide_border=false" height="160" alt="gráfico de estatísticas" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=llypeDev&locale=pt-br&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="160" alt="gráfico de linguagens" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=llypeDev&theme=dracula&hide_border=false&locale=pt_BR" height="160" alt="gráfico de sequência" />
 </div>
 
 ###
@@ -106,14 +93,6 @@
   <a href="#" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="logo linkedin" />
   </a>
-</div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/llypeDev/llypeDev/output/snake.svg" alt="Animação da cobrinha" />
 </div>
 
 ###
