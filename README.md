@@ -61,7 +61,7 @@
   <img width="12" />
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="40" alt="logo docker" title="Docker" />
   <img width="12" />
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/n8n/n8n-original.svg" height="40" width="40" alt="logo n8n" title="n8n" />
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" width="40" alt="logo postman" title="Postman" />
   <img width="12" />
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="40" alt="logo git" title="Git" />
   <img width="12" />
@@ -71,6 +71,7 @@
 <p align="left"><strong>Ferramentas e integrações corporativas:</strong></p>
 
 <div align="left">
+  <img src="https://img.shields.io/static/v1?message=n8n&logo=n8n&label=&color=EA4B71&logoColor=white&style=for-the-badge" height="32" alt="Badge n8n" />
   <img src="https://img.shields.io/static/v1?message=SAP&logo=sap&label=&color=0FAAFF&logoColor=white&style=for-the-badge" height="32" alt="Badge SAP" />
   <img src="https://img.shields.io/static/v1?message=TOTVS&label=&color=00A3E0&logoColor=white&style=for-the-badge" height="32" alt="Badge TOTVS" />
   <img src="https://img.shields.io/static/v1?message=SOAP%20%2F%20Web%20Services&label=&color=6DB33F&logoColor=white&style=for-the-badge" height="32" alt="Badge SOAP" />
