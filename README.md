@@ -11,6 +11,8 @@
 - 🧠 Uso **Inteligência Artificial** para construir soluções mais inteligentes e produtivas
 - 📊 Transformo dados em insights com **Análise de Dados**
 - 🗄️ Modelagem e consultas em **Bancos de Dados (SQL e NoSQL)**
+- 🔗 Integrações corporativas com **SAP, TOTVS e Web Services (SOAP)**
+- ⚙️ Automação de processos com **n8n** e containers com **Docker**
 - 📋 Fluxo de trabalho organizado com **Kanban** e práticas ágeis
 
 ###
@@ -57,9 +59,22 @@
   <img width="12" />
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="40" alt="logo mongodb" title="MongoDB" />
   <img width="12" />
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="40" alt="logo docker" title="Docker" />
+  <img width="12" />
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/n8n/n8n-original.svg" height="40" width="40" alt="logo n8n" title="n8n" />
+  <img width="12" />
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="40" alt="logo git" title="Git" />
   <img width="12" />
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="40" alt="logo vscode" title="VS Code" />
+</div>
+
+<p align="left"><strong>Ferramentas e integrações corporativas:</strong></p>
+
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=SAP&logo=sap&label=&color=0FAAFF&logoColor=white&style=for-the-badge" height="32" alt="Badge SAP" />
+  <img src="https://img.shields.io/static/v1?message=TOTVS&label=&color=00A3E0&logoColor=white&style=for-the-badge" height="32" alt="Badge TOTVS" />
+  <img src="https://img.shields.io/static/v1?message=SOAP%20%2F%20Web%20Services&label=&color=6DB33F&logoColor=white&style=for-the-badge" height="32" alt="Badge SOAP" />
+  <img src="https://img.shields.io/static/v1?message=DBeaver&label=&color=372923&logoColor=white&style=for-the-badge" height="32" alt="Badge DBeaver" />
 </div>
 
 ###
