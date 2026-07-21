@@ -1,106 +1,110 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=BD93F9&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+llypeDev;Junior+Developer+from+Brazil+%F0%9F%87%A7%F0%9F%87%B7;Always+learning%2C+always+building!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=BD93F9&center=true&vCenter=true&width=600&lines=Oi+%F0%9F%91%8B+eu+sou+o+llypeDev;Desenvolvedor+J%C3%BAnior+%F0%9F%87%A7%F0%9F%87%B7;Sempre+aprendendo+e+construindo!" alt="Animação de texto" />
 </div>
 
 ###
 
-<h2 align="left">🚀 About Me</h2>
+<h2 align="left">🚀 Sobre mim</h2>
 
-- 💻 **Junior Developer** passionate about web development and technology
-- 🧠 Leveraging **AI tools** to build smarter and deliver faster
-- 📊 Turning raw data into insights with **Data Analysis**
-- 🗄️ Comfortable modeling and querying **Databases (SQL & NoSQL)**
-- 📋 Organized workflow with **Kanban** and agile practices
-- 🌱 Currently deepening my knowledge in **JavaScript** and back-end development
+- 💻 **Desenvolvedor Júnior** apaixonado por tecnologia e desenvolvimento web
+- ☕ Trabalho com **Java e Spring Boot** no back-end
+- 🧠 Uso **Inteligência Artificial** para construir soluções mais inteligentes e produtivas
+- 📊 Transformo dados em insights com **Análise de Dados**
+- 🗄️ Modelagem e consultas em **Bancos de Dados (SQL e NoSQL)**
+- 📋 Fluxo de trabalho organizado com **Kanban** e práticas ágeis
 
 ###
 
-<h2 align="left">⭐ What Sets Me Apart</h2>
+<h2 align="left">⭐ Meus diferenciais</h2>
 
 <div align="left">
-  <img src="https://img.shields.io/badge/🤖 Artificial Intelligence-BD93F9?style=for-the-badge&logoColor=white&labelColor=282A36" height="32" alt="AI badge" />
-  <img src="https://img.shields.io/badge/📊 Data Analysis-8BE9FD?style=for-the-badge&logoColor=black&labelColor=282A36" height="32" alt="Data Analysis badge" />
-  <img src="https://img.shields.io/badge/🗄️ Databases-50FA7B?style=for-the-badge&logoColor=black&labelColor=282A36" height="32" alt="Databases badge" />
-  <img src="https://img.shields.io/badge/📋 Kanban-FFB86C?style=for-the-badge&logoColor=black&labelColor=282A36" height="32" alt="Kanban badge" />
+  <img src="https://img.shields.io/static/v1?message=%F0%9F%A4%96%20Intelig%C3%AAncia%20Artificial&label=&color=BD93F9&style=for-the-badge" height="32" alt="Badge IA" />
+  <img src="https://img.shields.io/static/v1?message=%F0%9F%93%8A%20An%C3%A1lise%20de%20Dados&label=&color=8BE9FD&style=for-the-badge" height="32" alt="Badge Análise de Dados" />
+  <img src="https://img.shields.io/static/v1?message=%F0%9F%97%84%20Banco%20de%20Dados&label=&color=50FA7B&style=for-the-badge" height="32" alt="Badge Banco de Dados" />
+  <img src="https://img.shields.io/static/v1?message=%F0%9F%93%8B%20Kanban&label=&color=FFB86C&style=for-the-badge" height="32" alt="Badge Kanban" />
 </div>
 
 ###
 
-<h2 align="left">🛠️ Tech Stack</h2>
+<h2 align="left">🛠️ Tecnologias</h2>
 
-<p align="left"><strong>Core:</strong></p>
+<p align="left"><strong>Principais:</strong></p>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo" title="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="logo java" title="Java" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo" title="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="35" alt="logo spring" title="Spring Boot" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css3 logo" title="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="logo javascript" title="JavaScript" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="35" alt="wordpress logo" title="WordPress" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="logo html5" title="HTML5" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="logo css3" title="CSS3" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="35" alt="logo wordpress" title="WordPress" />
 </div>
 
-<p align="left"><strong>Also working with:</strong></p>
+<p align="left"><strong>Também trabalho com:</strong></p>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" alt="nodejs logo" title="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" alt="logo nodejs" title="Node.js" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo" title="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="logo python" title="Python" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="mysql logo" title="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="logo mysql" title="MySQL" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="35" alt="postgresql logo" title="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="35" alt="logo postgresql" title="PostgreSQL" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="35" alt="mongodb logo" title="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="35" alt="logo mongodb" title="MongoDB" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="git logo" title="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="logo git" title="Git" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35" alt="vscode logo" title="VS Code" />
-</div>
-
-###
-
-<h2 align="left">🤝 Soft Skills</h2>
-
-<div align="left">
-  <img src="https://img.shields.io/badge/Communication-44475A?style=for-the-badge" height="30" alt="communication badge" />
-  <img src="https://img.shields.io/badge/Teamwork-44475A?style=for-the-badge" height="30" alt="teamwork badge" />
-  <img src="https://img.shields.io/badge/Problem_Solving-44475A?style=for-the-badge" height="30" alt="problem solving badge" />
-  <img src="https://img.shields.io/badge/Organization-44475A?style=for-the-badge" height="30" alt="organization badge" />
-  <img src="https://img.shields.io/badge/Continuous_Learning-44475A?style=for-the-badge" height="30" alt="continuous learning badge" />
-  <img src="https://img.shields.io/badge/Proactivity-44475A?style=for-the-badge" height="30" alt="proactivity badge" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35" alt="logo vscode" title="VS Code" />
 </div>
 
 ###
 
-<h2 align="left">📈 GitHub Stats</h2>
+<h2 align="left">🤝 Habilidades interpessoais</h2>
+
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Comunica%C3%A7%C3%A3o&label=&color=44475A&style=for-the-badge" height="30" alt="Badge comunicação" />
+  <img src="https://img.shields.io/static/v1?message=Trabalho%20em%20Equipe&label=&color=44475A&style=for-the-badge" height="30" alt="Badge trabalho em equipe" />
+  <img src="https://img.shields.io/static/v1?message=Resolu%C3%A7%C3%A3o%20de%20Problemas&label=&color=44475A&style=for-the-badge" height="30" alt="Badge resolução de problemas" />
+  <img src="https://img.shields.io/static/v1?message=Organiza%C3%A7%C3%A3o&label=&color=44475A&style=for-the-badge" height="30" alt="Badge organização" />
+  <img src="https://img.shields.io/static/v1?message=Aprendizado%20Cont%C3%ADnuo&label=&color=44475A&style=for-the-badge" height="30" alt="Badge aprendizado contínuo" />
+  <img src="https://img.shields.io/static/v1?message=Proatividade&label=&color=44475A&style=for-the-badge" height="30" alt="Badge proatividade" />
+</div>
+
+###
+
+<h2 align="left">📈 Estatísticas do GitHub</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=llypeDev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="160" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=llypeDev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="160" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=llypeDev&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=pt-br&hide_border=false" height="160" alt="gráfico de estatísticas" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=llypeDev&locale=pt-br&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="160" alt="gráfico de linguagens" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=llypeDev&theme=dracula&hide_border=false" height="160" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com?user=llypeDev&theme=dracula&hide_border=false&locale=pt_BR" height="160" alt="gráfico de sequência" />
 </div>
 
 ###
 
-<h2 align="left">📫 Let's Connect</h2>
+<h2 align="left">📫 Vamos nos conectar</h2>
 
 <div align="left">
-  <!-- Substitua o "#" pelos seus links reais -->
+  <!-- Substitua o "#" pelos seus links reais e o e-mail abaixo pelo seu -->
   <a href="#" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35" alt="logo instagram" />
   </a>
   <a href="#" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="35" alt="logo discord" />
   </a>
   <a href="mailto:seuemail@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="logo gmail" />
   </a>
   <a href="#" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="logo linkedin" />
   </a>
 </div>
 
@@ -109,7 +113,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/llypeDev/llypeDev/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/llypeDev/llypeDev/output/snake.svg" alt="Animação da cobrinha" />
 </div>
 
 ###
