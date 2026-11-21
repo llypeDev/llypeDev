@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="190" viewBox="0 0 1200 190" fill="none" role="img" aria-labelledby="t">
+<title id="t">Rodapé animado: obrigado pela visita — sempre aprendendo e construindo</title>
+<style>
+
+.star { fill: #F8F8F2; opacity: .5; animation: twinkle 4s ease-in-out infinite; }
+@keyframes twinkle { 0%, 100% { opacity: .12; } 50% { opacity: .9; } }
+.glyph { font-family: 'JetBrains Mono', 'Fira Code', 'Cascadia Code', Consolas, 'SF Mono', Menlo, 'DejaVu Sans Mono', 'Liberation Mono', monospace; font-weight: 700; fill: #BD93F9; opacity: .22; animation: rise 12s linear infinite; }
+.glyph:nth-of-type(3n) { fill: #FF79C6; }
+.glyph:nth-of-type(3n+1) { fill: #8BE9FD; }
+@keyframes rise {
+  0% { transform: translateY(24px); opacity: 0; }
+  20%, 75% { opacity: .32; }
+  100% { transform: translateY(-60px); opacity: 0; }
+}
+.wave { animation: slide 12s linear infinite; }
+@keyframes slide { from { transform: translateX(0); } to { transform: translateX(-1200px); } }
+.blob { animation: drift 16s ease-in-out infinite alternate; }
+.blob.b2 { animation-duration: 20s; animation-delay: -6s; }
+.blob.b3 { animation-duration: 13s; animation-delay: -3s; }
+@keyframes drift { from { transform: translate(-30px, -10px); } to { transform: translate(40px, 18px); } }
+.title { font-family: 'JetBrains Mono', 'Fira Code', 'Cascadia Code', Consolas, 'SF Mono', Menlo, 'DejaVu Sans Mono', 'Liberation Mono', monospace; font-size: 44px; font-weight: 700; letter-spacing: -1px; }
+.br { fill: #FF79C6; }
+.halo { opacity: .55; animation: breathe 4s ease-in-out infinite; }
+@keyframes breathe { 0%, 100% { opacity: .35; } 50% { opacity: .75; } }
+.sub { font-family: 'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 18px; font-weight: 600; fill: #F8F8F2; letter-spacing: .5px;
+        animation: up 1.2s cubic-bezier(.2,.8,.2,1) both .3s; }
+.dot { fill: #BD93F9; }
+@keyframes up { from { opacity: 0; transform: translateY(14px); } to { opacity: .92; transform: translateY(0); } }
+.bar { transform-box: fill-box; transform-origin: 50% 50%; animation: grow 3.2s ease-in-out infinite alternate; }
+@keyframes grow { from { transform: scaleX(.25); } to { transform: scaleX(1); } }
+
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+<defs>
+
+<clipPath id="clip"><rect width="1200" height="190" rx="22"/></clipPath>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+  <stop offset="0" stop-color="#191A21"/><stop offset=".55" stop-color="#282A36"/><stop offset="1" stop-color="#2B2140"/>
+</linearGradient>
+<radialGradient id="glowP"><stop offset="0" stop-color="#BD93F9" stop-opacity=".55"/><stop offset="1" stop-color="#BD93F9" stop-opacity="0"/></radialGradient>
+<radialGradient id="glowK"><stop offset="0" stop-color="#FF79C6" stop-opacity=".40"/><stop offset="1" stop-color="#FF79C6" stop-opacity="0"/></radialGradient>
+<radialGradient id="glowC"><stop offset="0" stop-color="#8BE9FD" stop-opacity=".25"/><stop offset="1" stop-color="#8BE9FD" stop-opacity="0"/></radialGradient>
+<pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+  <path d="M40 0H0V40" stroke="#44475A" stroke-width="1"/>
+</pattern>
+<radialGradient id="gridFade" cx=".5" cy=".45" r=".6">
+  <stop offset="0" stop-color="#fff" stop-opacity=".55"/><stop offset="1" stop-color="#fff" stop-opacity="0"/>
+</radialGradient>
+<mask id="gridMask"><rect width="1200" height="190" fill="url(#gridFade)"/></mask>
+<linearGradient id="tg" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="600" y2="0" spreadMethod="repeat">
+  <stop offset="0" stop-color="#BD93F9"/><stop offset=".33" stop-color="#FF79C6"/>
+  <stop offset=".66" stop-color="#8BE9FD"/><stop offset="1" stop-color="#BD93F9"/>
+  <animateTransform attributeName="gradientTransform" type="translate" from="0 0" to="600 0" dur="6s" repeatCount="indefinite"/>
+</linearGradient>
+<filter id="blur" x="-20%" y="-50%" width="140%" height="200%"><feGaussianBlur stdDeviation="14"/></filter>
+
+</defs>
+
+<g clip-path="url(#clip)">
+  <rect width="1200" height="190" fill="url(#bg)"/>
+  <circle class="blob" cx="216" cy="48" r="171" fill="url(#glowP)"/>
+  <circle class="blob b2" cx="1008" cy="142" r="162" fill="url(#glowK)"/>
+  <circle class="blob b3" cx="660" cy="10" r="114" fill="url(#glowC)"/>
+  <rect width="1200" height="190" fill="url(#grid)" mask="url(#gridMask)" opacity=".6"/>
+  <g><circle class="star" cx="563" cy="102" r="0.8" style="animation-delay:-1.99s;animation-duration:3.96s"/><circle class="star" cx="1168" cy="112" r="1" style="animation-delay:-3.53s;animation-duration:5.48s"/><circle class="star" cx="488" cy="64" r="1.2" style="animation-delay:-1.59s;animation-duration:4.67s"/><circle class="star" cx="43" cy="79" r="1.5" style="animation-delay:-3.52s;animation-duration:3.65s"/><circle class="star" cx="620" cy="49" r="0.8" style="animation-delay:-0.56s;animation-duration:5.26s"/><circle class="star" cx="285" cy="117" r="0.8" style="animation-delay:-1.33s;animation-duration:2.62s"/><circle class="star" cx="924" cy="46" r="1" style="animation-delay:-4.10s;animation-duration:5.05s"/><circle class="star" cx="804" cy="126" r="1.5" style="animation-delay:-0.75s;animation-duration:5.26s"/><circle class="star" cx="682" cy="97" r="0.8" style="animation-delay:-1.40s;animation-duration:4.90s"/><circle class="star" cx="233" cy="120" r="1.2" style="animation-delay:-4.69s;animation-duration:4.40s"/><circle class="star" cx="950" cy="24" r="1" style="animation-delay:-0.33s;animation-duration:5.09s"/><circle class="star" cx="546" cy="54" r="1.9" style="animation-delay:-2.09s;animation-duration:5.25s"/><circle class="star" cx="741" cy="19" r="1" style="animation-delay:-4.69s;animation-duration:5.41s"/><circle class="star" cx="324" cy="35" r="1.2" style="animation-delay:-3.14s;animation-duration:4.09s"/><circle class="star" cx="259" cy="67" r="1" style="animation-delay:-1.35s;animation-duration:4.91s"/><circle class="star" cx="1174" cy="18" r="0.8" style="animation-delay:-3.67s;animation-duration:4.15s"/><circle class="star" cx="240" cy="70" r="1.5" style="animation-delay:-0.53s;animation-duration:4.96s"/><circle class="star" cx="521" cy="72" r="1.5" style="animation-delay:-4.85s;animation-duration:3.42s"/><circle class="star" cx="270" cy="41" r="1" style="animation-delay:-4.16s;animation-duration:4.62s"/><circle class="star" cx="758" cy="62" r="1.2" style="animation-delay:-4.91s;animation-duration:5.01s"/><circle class="star" cx="37" cy="88" r="1.2" style="animation-delay:-2.15s;animation-duration:2.67s"/><circle class="star" cx="792" cy="59" r="1.9" style="animation-delay:-3.35s;animation-duration:3.35s"/><circle class="star" cx="301" cy="49" r="1.5" style="animation-delay:-0.93s;animation-duration:3.31s"/><circle class="star" cx="24" cy="57" r="1.2" style="animation-delay:-4.86s;animation-duration:4.14s"/><circle class="star" cx="304" cy="128" r="1.2" style="animation-delay:-1.09s;animation-duration:3.05s"/><circle class="star" cx="409" cy="24" r="1.2" style="animation-delay:-2.51s;animation-duration:3.10s"/><circle class="star" cx="605" cy="15" r="1.2" style="animation-delay:-4.09s;animation-duration:2.93s"/><circle class="star" cx="701" cy="60" r="1.2" style="animation-delay:-1.52s;animation-duration:3.20s"/><circle class="star" cx="699" cy="76" r="1" style="animation-delay:-3.29s;animation-duration:4.65s"/><circle class="star" cx="1040" cy="60" r="1.2" style="animation-delay:-3.60s;animation-duration:3.98s"/></g>
+  <g><text class="glyph" x="117" y="115" font-size="16" style="animation-delay:-0.53s;animation-duration:14.01s">{ }</text><text class="glyph" x="1113" y="115" font-size="16" style="animation-delay:-10.92s;animation-duration:13.52s">&lt;/&gt;</text><text class="glyph" x="195" y="129" font-size="14" style="animation-delay:-9.92s;animation-duration:12.50s">( )</text><text class="glyph" x="1113" y="119" font-size="16" style="animation-delay:-1.02s;animation-duration:9.25s">;</text><text class="glyph" x="213" y="139" font-size="22" style="animation-delay:-10.03s;animation-duration:12.35s">=&gt;</text><text class="glyph" x="1046" y="115" font-size="16" style="animation-delay:-5.87s;animation-duration:9.02s">@</text><text class="glyph" x="257" y="124" font-size="14" style="animation-delay:-7.91s;animation-duration:9.40s">[ ]</text><text class="glyph" x="1074" y="88" font-size="14" style="animation-delay:-10.15s;animation-duration:10.41s">&amp;&amp;</text><text class="glyph" x="246" y="87" font-size="22" style="animation-delay:-5.93s;animation-duration:11.30s">++</text><text class="glyph" x="1009" y="119" font-size="14" style="animation-delay:-7.40s;animation-duration:12.86s">//</text></g>
+  <text class="title halo" x="600.0" y="92" text-anchor="middle" fill="#BD93F9" filter="url(#blur)"><tspan class="br">&lt;</tspan>obrigado pela visita<tspan class="br"> /&gt;</tspan></text>
+  <text class="title" x="600.0" y="92" text-anchor="middle" fill="url(#tg)"><tspan class="br">&lt;</tspan>obrigado pela visita<tspan class="br"> /&gt;</tspan></text>
+  <rect class="bar" x="460.0" y="110" width="280" height="4" rx="2" fill="url(#tg)"/>
+  <text class="sub" x="600.0" y="132" text-anchor="middle">Sempre aprendendo e construindo</text>
+  <path class="wave" d="M0,190L0,152.0L20,154.1L40,156.1L60,157.9L80,159.4L100,160.7L120,161.5L140,161.9L160,161.9L180,161.5L200,160.7L220,159.4L240,157.9L260,156.1L280,154.1L300,152.0L320,149.9L340,147.9L360,146.1L380,144.6L400,143.3L420,142.5L440,142.1L460,142.1L480,142.5L500,143.3L520,144.6L540,146.1L560,147.9L580,149.9L600,152.0L620,154.1L640,156.1L660,157.9L680,159.4L700,160.7L720,161.5L740,161.9L760,161.9L780,161.5L800,160.7L820,159.4L840,157.9L860,156.1L880,154.1L900,152.0L920,149.9L940,147.9L960,146.1L980,144.6L1000,143.3L1020,142.5L1040,142.1L1060,142.1L1080,142.5L1100,143.3L1120,144.6L1140,146.1L1160,147.9L1180,149.9L1200,152.0L1220,154.1L1240,156.1L1260,157.9L1280,159.4L1300,160.7L1320,161.5L1340,161.9L1360,161.9L1380,161.5L1400,160.7L1420,159.4L1440,157.9L1460,156.1L1480,154.1L1500,152.0L1520,149.9L1540,147.9L1560,146.1L1580,144.6L1600,143.3L1620,142.5L1640,142.1L1660,142.1L1680,142.5L1700,143.3L1720,144.6L1740,146.1L1760,147.9L1780,149.9L1800,152.0L1820,154.1L1840,156.1L1860,157.9L1880,159.4L1900,160.7L1920,161.5L1940,161.9L1960,161.9L1980,161.5L2000,160.7L2020,159.4L2040,157.9L2060,156.1L2080,154.1L2100,152.0L2120,149.9L2140,147.9L2160,146.1L2180,144.6L2200,143.3L2220,142.5L2240,142.1L2260,142.1L2280,142.5L2300,143.3L2320,144.6L2340,146.1L2360,147.9L2380,149.9L2400,152.0L2400,190Z" fill="#BD93F9" fill-opacity="0.3" style="animation-duration:14s"/><path class="wave" d="M0,190L0,172.9L20,174.6L40,175.0L60,174.1L80,172.1L100,169.0L120,165.3L140,161.3L160,157.3L180,153.8L200,151.1L220,149.4L240,149.0L260,149.9L280,151.9L300,155.0L320,158.7L340,162.7L360,166.7L380,170.2L400,172.9L420,174.6L440,175.0L460,174.1L480,172.1L500,169.0L520,165.3L540,161.3L560,157.3L580,153.8L600,151.1L620,149.4L640,149.0L660,149.9L680,151.9L700,155.0L720,158.7L740,162.7L760,166.7L780,170.2L800,172.9L820,174.6L840,175.0L860,174.1L880,172.1L900,169.0L920,165.3L940,161.3L960,157.3L980,153.8L1000,151.1L1020,149.4L1040,149.0L1060,149.9L1080,151.9L1100,155.0L1120,158.7L1140,162.7L1160,166.7L1180,170.2L1200,172.9L1220,174.6L1240,175.0L1260,174.1L1280,172.1L1300,169.0L1320,165.3L1340,161.3L1360,157.3L1380,153.8L1400,151.1L1420,149.4L1440,149.0L1460,149.9L1480,151.9L1500,155.0L1520,158.7L1540,162.7L1560,166.7L1580,170.2L1600,172.9L1620,174.6L1640,175.0L1660,174.1L1680,172.1L1700,169.0L1720,165.3L1740,161.3L1760,157.3L1780,153.8L1800,151.1L1820,149.4L1840,149.0L1860,149.9L1880,151.9L1900,155.0L1920,158.7L1940,162.7L1960,166.7L1980,170.2L2000,172.9L2020,174.6L2040,175.0L2060,174.1L2080,172.1L2100,169.0L2120,165.3L2140,161.3L2160,157.3L2180,153.8L2200,151.1L2220,149.4L2240,149.0L2260,149.9L2280,151.9L2300,155.0L2320,158.7L2340,162.7L2360,166.7L2380,170.2L2400,172.9L2400,190Z" fill="#FF79C6" fill-opacity="0.22" style="animation-duration:10s;animation-direction:reverse"/><path class="wave" d="M0,190L0,179.3L20,177.3L40,174.4L60,171.1L80,167.9L100,165.5L120,164.2L140,164.2L160,165.6L180,168.1L200,171.2L220,174.6L240,177.4L260,179.3L280,180.0L300,179.3L320,177.3L340,174.4L360,171.1L380,167.9L400,165.5L420,164.2L440,164.2L460,165.6L480,168.1L500,171.2L520,174.6L540,177.4L560,179.3L580,180.0L600,179.3L620,177.3L640,174.4L660,171.1L680,167.9L700,165.5L720,164.2L740,164.2L760,165.6L780,168.1L800,171.2L820,174.6L840,177.4L860,179.3L880,180.0L900,179.3L920,177.3L940,174.4L960,171.1L980,167.9L1000,165.5L1020,164.2L1040,164.2L1060,165.6L1080,168.1L1100,171.2L1120,174.6L1140,177.4L1160,179.3L1180,180.0L1200,179.3L1220,177.3L1240,174.4L1260,171.1L1280,167.9L1300,165.5L1320,164.2L1340,164.2L1360,165.6L1380,168.1L1400,171.2L1420,174.6L1440,177.4L1460,179.3L1480,180.0L1500,179.3L1520,177.3L1540,174.4L1560,171.1L1580,167.9L1600,165.5L1620,164.2L1640,164.2L1660,165.6L1680,168.1L1700,171.2L1720,174.6L1740,177.4L1760,179.3L1780,180.0L1800,179.3L1820,177.3L1840,174.4L1860,171.1L1880,167.9L1900,165.5L1920,164.2L1940,164.2L1960,165.6L1980,168.1L2000,171.2L2020,174.6L2040,177.4L2060,179.3L2080,180.0L2100,179.3L2120,177.3L2140,174.4L2160,171.1L2180,167.9L2200,165.5L2220,164.2L2240,164.2L2260,165.6L2280,168.1L2300,171.2L2320,174.6L2340,177.4L2360,179.3L2380,180.0L2400,179.3L2400,190Z" fill="#8BE9FD" fill-opacity="0.14" style="animation-duration:7s"/>
+</g>
+<rect x=".75" y=".75" width="1198.5" height="188.5" rx="21.5" stroke="#BD93F9" stroke-opacity=".35" stroke-width="1.5"/>
+
+</svg>
