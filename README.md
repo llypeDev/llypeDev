@@ -1,10 +1,25 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=BD93F9&center=true&vCenter=true&width=600&lines=Oi+%F0%9F%91%8B+eu+sou+o+llypeDev;Desenvolvedor+J%C3%BAnior+%F0%9F%87%A7%F0%9F%87%B7;Sempre+aprendendo+e+construindo!" alt="Animação de texto" />
-</div>
+<p align="center">
+  <img src="./assets/header.svg" width="100%" alt="Banner animado: &lt;llypeDev /&gt; — Desenvolvedor Júnior, Java e Spring Boot, IA e Dados" />
+</p>
 
-###
+<p align="center">
+  <a href="https://github.com/llypeDev">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=BD93F9&center=true&vCenter=true&width=640&height=50&lines=Oi+%F0%9F%91%8B+eu+sou+o+llypeDev;Desenvolvedor+J%C3%BAnior+%F0%9F%87%A7%F0%9F%87%B7;Java+%2B+Spring+Boot+no+back-end+%E2%98%95;IA+%2B+Dados+%3D+solu%C3%A7%C3%B5es+inteligentes+%F0%9F%A7%A0;Sempre+aprendendo+e+construindo%21" alt="Texto sendo digitado: Oi, eu sou o llypeDev — Desenvolvedor Júnior — Java + Spring Boot no back-end — IA + Dados = soluções inteligentes — Sempre aprendendo e construindo!" />
+  </a>
+</p>
 
-<h2 align="left">🚀 Sobre mim</h2>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=llypeDev&label=Visualiza%C3%A7%C3%B5es&color=BD93F9&style=for-the-badge" alt="Visualizações do perfil" />
+  <img src="https://img.shields.io/github/followers/llypeDev?label=Seguidores&style=for-the-badge&logo=github&color=FF79C6&labelColor=282A36" alt="Seguidores no GitHub" />
+</p>
+
+<img src="./assets/divider.svg" width="100%" alt="" />
+
+## 🚀 Sobre mim
+
+<p align="center">
+  <img src="./assets/sobre-mim.svg" width="100%" alt="Cartão animado em estilo editor de código: classe Java LlypeDev com cargo Desenvolvedor Júnior, back-end Java e Spring Boot, dados SQL, NoSQL e Análise de Dados, integrações SAP, TOTVS e SOAP, automação com n8n e Docker, método Kanban e Ágil, e foco em usar IA para criar soluções inteligentes." />
+</p>
 
 - 💻 **Desenvolvedor Júnior** apaixonado por tecnologia e desenvolvimento web
 - ☕ Trabalho com **Java e Spring Boot** no back-end
@@ -15,100 +30,81 @@
 - ⚙️ Automação de processos com **n8n** e containers com **Docker**
 - 📋 Fluxo de trabalho organizado com **Kanban** e práticas ágeis
 
-###
+## ⭐ Meus diferenciais
 
-<h2 align="left">⭐ Meus diferenciais</h2>
+<p align="center">
+  <img src="./assets/diferenciais.svg" width="100%" alt="Meus diferenciais: Inteligência Artificial, Análise de Dados, Banco de Dados (SQL e NoSQL) e Kanban com práticas ágeis — cada um com uma pequena animação." />
+</p>
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=%F0%9F%A4%96%20Intelig%C3%AAncia%20Artificial&label=&color=BD93F9&style=for-the-badge" height="32" alt="Badge IA" />
-  <img src="https://img.shields.io/static/v1?message=%F0%9F%93%8A%20An%C3%A1lise%20de%20Dados&label=&color=8BE9FD&style=for-the-badge" height="32" alt="Badge Análise de Dados" />
-  <img src="https://img.shields.io/static/v1?message=%F0%9F%97%84%20Banco%20de%20Dados&label=&color=50FA7B&style=for-the-badge" height="32" alt="Badge Banco de Dados" />
-  <img src="https://img.shields.io/static/v1?message=%F0%9F%93%8B%20Kanban&label=&color=FFB86C&style=for-the-badge" height="32" alt="Badge Kanban" />
-</div>
+<img src="./assets/divider.svg" width="100%" alt="" />
 
-###
+## 🛠️ Tecnologias
 
-<h2 align="left">🛠️ Tecnologias</h2>
+**Principais**
 
-<p align="left"><strong>Principais:</strong></p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,js,html,css,wordpress&theme=dark" alt="Java, Spring Boot, JavaScript, HTML5, CSS3 e WordPress" />
+</p>
 
-<div align="left">
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="40" alt="logo java" title="Java" />
-  <img width="12" />
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" width="40" alt="logo spring" title="Spring Boot" />
-  <img width="12" />
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="40" alt="logo javascript" title="JavaScript" />
-  <img width="12" />
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="40" alt="logo html5" title="HTML5" />
-  <img width="12" />
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="40" alt="logo css3" title="CSS3" />
-  <img width="12" />
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" width="40" alt="logo wordpress" title="WordPress" />
-</div>
+**Também trabalho com**
 
-<p align="left"><strong>Também trabalho com:</strong></p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,py,mysql,postgres,mongodb,docker,postman,git,vscode&theme=dark" alt="Node.js, Python, MySQL, PostgreSQL, MongoDB, Docker, Postman, Git e VS Code" />
+</p>
 
-<div align="left">
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="40" alt="logo nodejs" title="Node.js" />
-  <img width="12" />
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="40" alt="logo python" title="Python" />
-  <img width="12" />
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="40" alt="logo mysql" title="MySQL" />
-  <img width="12" />
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="40" alt="logo postgresql" title="PostgreSQL" />
-  <img width="12" />
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="40" alt="logo mongodb" title="MongoDB" />
-  <img width="12" />
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="40" alt="logo docker" title="Docker" />
-  <img width="12" />
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" width="40" alt="logo postman" title="Postman" />
-  <img width="12" />
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="40" alt="logo git" title="Git" />
-  <img width="12" />
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="40" alt="logo vscode" title="VS Code" />
-</div>
+**Ferramentas e integrações corporativas**
 
-<p align="left"><strong>Ferramentas e integrações corporativas:</strong></p>
+<img src="./assets/ferramentas.svg" width="100%" alt="Ferramentas e integrações corporativas: n8n, SAP, TOTVS, SOAP / Web Services e DBeaver" />
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=n8n&logo=n8n&label=&color=EA4B71&logoColor=white&style=for-the-badge" height="32" alt="Badge n8n" />
-  <img src="https://img.shields.io/static/v1?message=SAP&logo=sap&label=&color=0FAAFF&logoColor=white&style=for-the-badge" height="32" alt="Badge SAP" />
-  <img src="https://img.shields.io/static/v1?message=TOTVS&label=&color=00A3E0&logoColor=white&style=for-the-badge" height="32" alt="Badge TOTVS" />
-  <img src="https://img.shields.io/static/v1?message=SOAP%20%2F%20Web%20Services&label=&color=6DB33F&logoColor=white&style=for-the-badge" height="32" alt="Badge SOAP" />
-  <img src="https://img.shields.io/static/v1?message=DBeaver&label=&color=372923&logoColor=white&style=for-the-badge" height="32" alt="Badge DBeaver" />
-</div>
+## 🤝 Habilidades interpessoais
 
-###
+<img src="./assets/soft-skills.svg" width="100%" alt="Habilidades interpessoais: Comunicação, Trabalho em Equipe, Resolução de Problemas, Organização, Aprendizado Contínuo e Proatividade" />
 
-<h2 align="left">🤝 Habilidades interpessoais</h2>
+<img src="./assets/divider.svg" width="100%" alt="" />
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Comunica%C3%A7%C3%A3o&label=&color=44475A&style=for-the-badge" height="30" alt="Badge comunicação" />
-  <img src="https://img.shields.io/static/v1?message=Trabalho%20em%20Equipe&label=&color=44475A&style=for-the-badge" height="30" alt="Badge trabalho em equipe" />
-  <img src="https://img.shields.io/static/v1?message=Resolu%C3%A7%C3%A3o%20de%20Problemas&label=&color=44475A&style=for-the-badge" height="30" alt="Badge resolução de problemas" />
-  <img src="https://img.shields.io/static/v1?message=Organiza%C3%A7%C3%A3o&label=&color=44475A&style=for-the-badge" height="30" alt="Badge organização" />
-  <img src="https://img.shields.io/static/v1?message=Aprendizado%20Cont%C3%ADnuo&label=&color=44475A&style=for-the-badge" height="30" alt="Badge aprendizado contínuo" />
-  <img src="https://img.shields.io/static/v1?message=Proatividade&label=&color=44475A&style=for-the-badge" height="30" alt="Badge proatividade" />
-</div>
+## 📊 Estatísticas no GitHub
 
-###
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=llypeDev&show_icons=true&theme=dracula&hide_border=true&bg_color=282A36&border_radius=14&rank_icon=github&locale=pt-br" alt="Estatísticas do GitHub" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=llypeDev&layout=compact&theme=dracula&hide_border=true&bg_color=282A36&border_radius=14&langs_count=8&locale=pt-br" alt="Linguagens mais usadas" />
+</p>
 
-<h2 align="left">📫 Vamos nos conectar</h2>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=llypeDev&theme=dracula&hide_border=true&background=282A36&border_radius=14&locale=pt_BR" alt="Sequência de contribuições no GitHub" />
+</p>
 
-<div align="left">
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=llypeDev&theme=dracula&hide_border=true&bg_color=282A36&area=true&radius=14&custom_title=Atividade%20de%20contribui%C3%A7%C3%B5es" alt="Gráfico de atividade de contribuições" />
+</p>
+
+## 🐍 A cobrinha das contribuições
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/llypeDev/llypeDev/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/llypeDev/llypeDev/output/snake.svg" />
+    <img src="https://raw.githubusercontent.com/llypeDev/llypeDev/output/snake.svg" alt="Animação de uma cobrinha comendo o gráfico de contribuições" />
+  </picture>
+</p>
+
+## 📫 Vamos nos conectar
+
+<p align="left">
   <!-- Substitua o "#" pelos seus links reais e o e-mail abaixo pelo seu -->
   <a href="#" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35" alt="logo instagram" />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35" alt="Instagram" />
   </a>
   <a href="#" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="35" alt="logo discord" />
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="35" alt="Discord" />
   </a>
   <a href="mailto:seuemail@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="logo gmail" />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="Gmail" />
   </a>
   <a href="#" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="logo linkedin" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="LinkedIn" />
   </a>
-</div>
+</p>
 
-###
+<p align="center">
+  <img src="./assets/footer.svg" width="100%" alt="Rodapé animado: obrigado pela visita — sempre aprendendo e construindo" />
+</p>

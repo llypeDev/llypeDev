@@ -1,0 +1,191 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1028" height="226" viewBox="0 0 1028 226" fill="none" role="img" aria-labelledby="t">
+<title id="t">Meus diferenciais: Inteligência Artificial, Análise de Dados, Banco de Dados (SQL e NoSQL) e Kanban com práticas ágeis — cada um com uma pequena animação.</title>
+<style>
+
+.card { fill: #282A36; }
+.edge { stroke-width: 1.5; animation: edge 3.6s ease-in-out infinite; }
+@keyframes edge { 0%, 100% { stroke-opacity: .3; } 50% { stroke-opacity: .95; } }
+.ttl { font-family: 'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 18.5px; font-weight: 700; fill: #F8F8F2; }
+.cap { font-family: 'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14.5px; fill: #A9B1D6; }
+.lbl { font-family: 'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 8.5px; font-weight: 700; letter-spacing: .6px; }
+/* IA */
+.syn { stroke: #BD93F9; stroke-opacity: .18; stroke-width: 1.2; }
+.flow { stroke: #BD93F9; stroke-width: 2; stroke-linecap: round; stroke-dasharray: 3 22; animation: flow 1.4s linear infinite; }
+@keyframes flow { to { stroke-dashoffset: -25; } }
+.node { fill: #282A36; stroke: #BD93F9; stroke-width: 2; animation: node 2.1s ease-in-out infinite; }
+@keyframes node { 0%, 100% { fill: #282A36; } 40% { fill: #BD93F9; } }
+/* Dados */
+.bar { transform-box: fill-box; transform-origin: 50% 100%; }
+.trend { stroke: #FF79C6; stroke-width: 2.5; stroke-linecap: round; stroke-linejoin: round; fill: none;
+          stroke-dasharray: 260; animation: draw 4.5s ease-in-out infinite; }
+@keyframes draw { 0% { stroke-dashoffset: 260; opacity: 1; } 55%, 85% { stroke-dashoffset: 0; opacity: 1; } 100% { stroke-dashoffset: 0; opacity: 0; } }
+.pt { fill: #FF79C6; transform-box: fill-box; transform-origin: center; animation: pop 4.5s ease-in-out infinite; }
+@keyframes pop { 0%, 50% { transform: scale(0); } 58%, 85% { transform: scale(1); } 100% { transform: scale(0); } }
+/* Banco */
+.seg { fill: #50FA7B; animation: seg 2.4s ease-in-out infinite; }
+@keyframes seg { 0%, 100% { fill-opacity: .10; } 30% { fill-opacity: .55; } }
+.rec { fill: #50FA7B; animation: drop 2.4s ease-in infinite; }
+@keyframes drop { 0% { transform: translateY(-20px); opacity: 0; } 30% { opacity: 1; } 80% { transform: translateY(8px); opacity: 1; } 100% { transform: translateY(12px); opacity: 0; } }
+.scan { animation: scan 2.4s ease-in-out infinite; }
+@keyframes scan { 0%, 100% { transform: translateX(-6px); opacity: .25; } 50% { transform: translateX(6px); opacity: .8; } }
+/* Kanban */
+.task { fill: #44475A; }
+.mover { animation: move 7s cubic-bezier(.65,0,.35,1) infinite; }
+@keyframes move {
+  0%, 18% { transform: translate(0, 0); opacity: 1; }
+  24% { transform: translate(35px, -9px); }
+  30%, 50% { transform: translate(70px, 0); }
+  56% { transform: translate(105px, -9px); }
+  62%, 88% { transform: translate(140px, 0); opacity: 1; }
+  95% { transform: translate(140px, 0); opacity: 0; }
+  96% { transform: translate(0, 0); opacity: 0; }
+  100% { transform: translate(0, 0); opacity: 1; }
+}
+.check { stroke: #50FA7B; stroke-width: 2; fill: none; stroke-linecap: round; stroke-linejoin: round;
+          stroke-dasharray: 14; animation: check 7s ease-in-out infinite; }
+@keyframes check { 0%, 66% { stroke-dashoffset: 14; } 74%, 88% { stroke-dashoffset: 0; opacity: 1; } 95%, 100% { stroke-dashoffset: 0; opacity: 0; } }
+
+@keyframes b0 { from { transform: scaleY(0.58); } to { transform: scaleY(1); } }
+@keyframes b1 { from { transform: scaleY(0.55); } to { transform: scaleY(1); } }
+@keyframes b2 { from { transform: scaleY(0.42); } to { transform: scaleY(1); } }
+@keyframes b3 { from { transform: scaleY(0.40); } to { transform: scaleY(1); } }
+@keyframes b4 { from { transform: scaleY(0.48); } to { transform: scaleY(1); } }
+@keyframes b5 { from { transform: scaleY(0.56); } to { transform: scaleY(1); } }
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+<defs>
+
+</defs>
+<g transform="translate(4,4)">
+<rect class="card" width="240" height="218" rx="16"/>
+<rect class="edge" x=".75" y=".75" width="238.5" height="216.5" rx="15.25" stroke="#BD93F9" style="animation-delay:-0.0s"/>
+<rect x="94.0" y="0" width="52" height="3" rx="1.5" fill="#BD93F9"/>
+<line class="syn" x1="58" y1="44" x2="120" y2="32"/>
+<line class="flow" x1="58" y1="44" x2="120" y2="32" style="animation-delay:-0.11s"/>
+<line class="syn" x1="58" y1="44" x2="120" y2="60"/>
+<line class="flow" x1="58" y1="44" x2="120" y2="60" style="animation-delay:-0.21s"/>
+<line class="syn" x1="58" y1="44" x2="120" y2="88"/>
+<line class="flow" x1="58" y1="44" x2="120" y2="88" style="animation-delay:-0.36s"/>
+<line class="syn" x1="58" y1="44" x2="120" y2="116"/>
+<line class="flow" x1="58" y1="44" x2="120" y2="116" style="animation-delay:-1.04s"/>
+<line class="syn" x1="58" y1="76" x2="120" y2="32"/>
+<line class="flow" x1="58" y1="76" x2="120" y2="32" style="animation-delay:-0.43s"/>
+<line class="syn" x1="58" y1="76" x2="120" y2="60"/>
+<line class="flow" x1="58" y1="76" x2="120" y2="60" style="animation-delay:-0.79s"/>
+<line class="syn" x1="58" y1="76" x2="120" y2="88"/>
+<line class="flow" x1="58" y1="76" x2="120" y2="88" style="animation-delay:-0.02s"/>
+<line class="syn" x1="58" y1="76" x2="120" y2="116"/>
+<line class="flow" x1="58" y1="76" x2="120" y2="116" style="animation-delay:-0.08s"/>
+<line class="syn" x1="58" y1="108" x2="120" y2="32"/>
+<line class="flow" x1="58" y1="108" x2="120" y2="32" style="animation-delay:-0.38s"/>
+<line class="syn" x1="58" y1="108" x2="120" y2="60"/>
+<line class="flow" x1="58" y1="108" x2="120" y2="60" style="animation-delay:-0.94s"/>
+<line class="syn" x1="58" y1="108" x2="120" y2="88"/>
+<line class="flow" x1="58" y1="108" x2="120" y2="88" style="animation-delay:-0.97s"/>
+<line class="syn" x1="58" y1="108" x2="120" y2="116"/>
+<line class="flow" x1="58" y1="108" x2="120" y2="116" style="animation-delay:-0.95s"/>
+<line class="syn" x1="120" y1="32" x2="182" y2="56"/>
+<line class="flow" x1="120" y1="32" x2="182" y2="56" style="animation-delay:-0.41s"/>
+<line class="syn" x1="120" y1="32" x2="182" y2="92"/>
+<line class="flow" x1="120" y1="32" x2="182" y2="92" style="animation-delay:-0.72s"/>
+<line class="syn" x1="120" y1="60" x2="182" y2="56"/>
+<line class="flow" x1="120" y1="60" x2="182" y2="56" style="animation-delay:-0.65s"/>
+<line class="syn" x1="120" y1="60" x2="182" y2="92"/>
+<line class="flow" x1="120" y1="60" x2="182" y2="92" style="animation-delay:-0.65s"/>
+<line class="syn" x1="120" y1="88" x2="182" y2="56"/>
+<line class="flow" x1="120" y1="88" x2="182" y2="56" style="animation-delay:-0.17s"/>
+<line class="syn" x1="120" y1="88" x2="182" y2="92"/>
+<line class="flow" x1="120" y1="88" x2="182" y2="92" style="animation-delay:-1.25s"/>
+<line class="syn" x1="120" y1="116" x2="182" y2="56"/>
+<line class="flow" x1="120" y1="116" x2="182" y2="56" style="animation-delay:-0.28s"/>
+<line class="syn" x1="120" y1="116" x2="182" y2="92"/>
+<line class="flow" x1="120" y1="116" x2="182" y2="92" style="animation-delay:-1.37s"/>
+<circle class="node" cx="58" cy="44" r="7.5" style="animation-delay:0.00s"/>
+<circle class="node" cx="58" cy="76" r="7.5" style="animation-delay:0.00s"/>
+<circle class="node" cx="58" cy="108" r="7.5" style="animation-delay:0.00s"/>
+<circle class="node" cx="120" cy="32" r="7.5" style="animation-delay:0.45s"/>
+<circle class="node" cx="120" cy="60" r="7.5" style="animation-delay:0.45s"/>
+<circle class="node" cx="120" cy="88" r="7.5" style="animation-delay:0.45s"/>
+<circle class="node" cx="120" cy="116" r="7.5" style="animation-delay:0.45s"/>
+<circle class="node" cx="182" cy="56" r="7.5" style="animation-delay:0.90s"/>
+<circle class="node" cx="182" cy="92" r="7.5" style="animation-delay:0.90s"/>
+<text class="ttl" x="120.0" y="168" text-anchor="middle">Inteligência Artificial</text>
+<text class="cap" x="120.0" y="192" text-anchor="middle">Soluções mais inteligentes</text>
+</g>
+<g transform="translate(264,4)">
+<rect class="card" width="240" height="218" rx="16"/>
+<rect class="edge" x=".75" y=".75" width="238.5" height="216.5" rx="15.25" stroke="#8BE9FD" style="animation-delay:-0.9s"/>
+<rect x="94.0" y="0" width="52" height="3" rx="1.5" fill="#8BE9FD"/>
+<path d="M28 122H212" stroke="#44475A" stroke-width="1.5"/>
+<path d="M28 92H212" stroke="#44475A" stroke-opacity=".45" stroke-dasharray="3 5"/>
+<path d="M28 62H212" stroke="#44475A" stroke-opacity=".45" stroke-dasharray="3 5"/>
+<path d="M28 32H212" stroke="#44475A" stroke-opacity=".45" stroke-dasharray="3 5"/>
+<rect class="bar" x="38" y="76" width="17" height="46" rx="3" fill="#8BE9FD" fill-opacity="0.45" style="animation:b0 2.22s ease-in-out -0.92s infinite alternate"/>
+<rect class="bar" x="67" y="50" width="17" height="72" rx="3" fill="#8BE9FD" fill-opacity="0.54" style="animation:b1 3.36s ease-in-out -0.90s infinite alternate"/>
+<rect class="bar" x="96" y="64" width="17" height="58" rx="3" fill="#8BE9FD" fill-opacity="0.63" style="animation:b2 2.45s ease-in-out -1.89s infinite alternate"/>
+<rect class="bar" x="125" y="34" width="17" height="88" rx="3" fill="#8BE9FD" fill-opacity="0.72" style="animation:b3 2.90s ease-in-out -0.28s infinite alternate"/>
+<rect class="bar" x="154" y="56" width="17" height="66" rx="3" fill="#8BE9FD" fill-opacity="0.81" style="animation:b4 3.34s ease-in-out -0.27s infinite alternate"/>
+<rect class="bar" x="183" y="24" width="17" height="98" rx="3" fill="#8BE9FD" fill-opacity="0.90" style="animation:b5 2.81s ease-in-out -1.77s infinite alternate"/>
+<polyline class="trend" points="46,92 75,74 104,82 133,52 162,60 191,30"/>
+<circle class="pt" cx="46" cy="92" r="3.5"/>
+<circle class="pt" cx="75" cy="74" r="3.5"/>
+<circle class="pt" cx="104" cy="82" r="3.5"/>
+<circle class="pt" cx="133" cy="52" r="3.5"/>
+<circle class="pt" cx="162" cy="60" r="3.5"/>
+<circle class="pt" cx="191" cy="30" r="3.5"/>
+<text class="ttl" x="120.0" y="168" text-anchor="middle">Análise de Dados</text>
+<text class="cap" x="120.0" y="192" text-anchor="middle">Dados que viram insights</text>
+</g>
+<g transform="translate(524,4)">
+<rect class="card" width="240" height="218" rx="16"/>
+<rect class="edge" x=".75" y=".75" width="238.5" height="216.5" rx="15.25" stroke="#50FA7B" style="animation-delay:-1.8s"/>
+<rect x="94.0" y="0" width="52" height="3" rx="1.5" fill="#50FA7B"/>
+<path d="M70,42 A50,13 0 0 0 170,42 V68 A50,13 0 0 1 70,68 Z" fill="#21222C" stroke="#50FA7B" stroke-opacity=".7" stroke-width="1.6"/>
+<path class="seg" d="M70,42 A50,13 0 0 0 170,42 V68 A50,13 0 0 1 70,68 Z" style="animation-delay:0.00s"/>
+<rect class="scan" x="92" y="59.0" width="56" height="3" rx="1.5" fill="#50FA7B" style="animation-delay:0.00s"/>
+<path d="M70,72 A50,13 0 0 0 170,72 V98 A50,13 0 0 1 70,98 Z" fill="#21222C" stroke="#50FA7B" stroke-opacity=".7" stroke-width="1.6"/>
+<path class="seg" d="M70,72 A50,13 0 0 0 170,72 V98 A50,13 0 0 1 70,98 Z" style="animation-delay:0.35s"/>
+<rect class="scan" x="92" y="89.0" width="56" height="3" rx="1.5" fill="#50FA7B" style="animation-delay:0.35s"/>
+<path d="M70,102 A50,13 0 0 0 170,102 V128 A50,13 0 0 1 70,128 Z" fill="#21222C" stroke="#50FA7B" stroke-opacity=".7" stroke-width="1.6"/>
+<path class="seg" d="M70,102 A50,13 0 0 0 170,102 V128 A50,13 0 0 1 70,128 Z" style="animation-delay:0.70s"/>
+<rect class="scan" x="92" y="119.0" width="56" height="3" rx="1.5" fill="#50FA7B" style="animation-delay:0.70s"/>
+<ellipse cx="120" cy="42" rx="50" ry="13" fill="#282A36" stroke="#50FA7B" stroke-width="1.6"/>
+<ellipse cx="120" cy="42" rx="36" ry="8" fill="#50FA7B" fill-opacity=".18"/>
+<rect class="rec" x="97" y="30" width="10" height="10" rx="2.5" style="animation-delay:0.00s"/>
+<rect class="rec" x="115" y="30" width="10" height="10" rx="2.5" style="animation-delay:0.80s"/>
+<rect class="rec" x="133" y="30" width="10" height="10" rx="2.5" style="animation-delay:1.60s"/>
+<text class="lbl" x="34" y="78" fill="#50FA7B" fill-opacity=".8">SQL</text>
+<text class="lbl" x="180" y="112" fill="#50FA7B" fill-opacity=".8">NoSQL</text>
+<text class="ttl" x="120.0" y="168" text-anchor="middle">Banco de Dados</text>
+<text class="cap" x="120.0" y="192" text-anchor="middle">SQL e NoSQL</text>
+</g>
+<g transform="translate(784,4)">
+<rect class="card" width="240" height="218" rx="16"/>
+<rect class="edge" x=".75" y=".75" width="238.5" height="216.5" rx="15.25" stroke="#FFB86C" style="animation-delay:-2.7s"/>
+<rect x="94.0" y="0" width="52" height="3" rx="1.5" fill="#FFB86C"/>
+<rect x="18" y="22" width="64" height="104" rx="7" fill="#21222C"/>
+<text class="lbl" x="50" y="37" text-anchor="middle" fill="#FFB86C">A FAZER</text>
+<rect x="88" y="22" width="64" height="104" rx="7" fill="#21222C"/>
+<text class="lbl" x="120" y="37" text-anchor="middle" fill="#FFB86C">FAZENDO</text>
+<rect x="158" y="22" width="64" height="104" rx="7" fill="#21222C"/>
+<text class="lbl" x="190" y="37" text-anchor="middle" fill="#FFB86C">FEITO</text>
+<rect class="task" x="23" y="46" width="54" height="20" rx="4"/>
+<rect x="29" y="51" width="30" height="3" rx="1.5" fill="#F8F8F2" opacity=".35"/>
+<rect x="29" y="57" width="20" height="3" rx="1.5" fill="#F8F8F2" opacity=".2"/>
+<rect class="task" x="23" y="98" width="54" height="20" rx="4"/>
+<rect x="29" y="103" width="30" height="3" rx="1.5" fill="#F8F8F2" opacity=".35"/>
+<rect x="29" y="109" width="20" height="3" rx="1.5" fill="#F8F8F2" opacity=".2"/>
+<rect class="task" x="93" y="46" width="54" height="20" rx="4"/>
+<rect x="99" y="51" width="30" height="3" rx="1.5" fill="#F8F8F2" opacity=".35"/>
+<rect x="99" y="57" width="20" height="3" rx="1.5" fill="#F8F8F2" opacity=".2"/>
+<rect class="task" x="93" y="98" width="54" height="20" rx="4"/>
+<rect x="99" y="103" width="30" height="3" rx="1.5" fill="#F8F8F2" opacity=".35"/>
+<rect x="99" y="109" width="20" height="3" rx="1.5" fill="#F8F8F2" opacity=".2"/>
+<rect class="task" x="163" y="46" width="54" height="20" rx="4"/>
+<rect x="169" y="51" width="30" height="3" rx="1.5" fill="#F8F8F2" opacity=".35"/>
+<rect x="169" y="57" width="20" height="3" rx="1.5" fill="#F8F8F2" opacity=".2"/>
+<g class="mover"><rect x="23" y="72" width="54" height="20" rx="4" fill="#FFB86C"/><rect x="29" y="77" width="30" height="3" rx="1.5" fill="#191A21" opacity=".7"/><rect x="29" y="83" width="20" height="3" rx="1.5" fill="#191A21" opacity=".5"/><path class="check" d="M61 82l3.5 3.5 6-7"/></g>
+<text class="ttl" x="120.0" y="168" text-anchor="middle">Kanban &amp; Ágil</text>
+<text class="cap" x="120.0" y="192" text-anchor="middle">Fluxo organizado</text>
+</g>
+</svg>
