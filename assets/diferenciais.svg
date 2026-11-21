@@ -1,191 +1,214 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1028" height="226" viewBox="0 0 1028 226" fill="none" role="img" aria-labelledby="t">
-<title id="t">Meus diferenciais: Inteligência Artificial, Análise de Dados, Banco de Dados (SQL e NoSQL) e Kanban com práticas ágeis — cada um com uma pequena animação.</title>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="464" viewBox="0 0 1000 464" fill="none" role="img" aria-labelledby="t">
+<title id="t">Meus diferenciais em uma grade no estilo Orange: 01 Inteligência Artificial, 02 Análise de Dados, 03 Banco de Dados (SQL e NoSQL) e 04 Kanban e práticas ágeis — o destaque laranja passa por cada um.</title>
 <style>
-
-.card { fill: #282A36; }
-.edge { stroke-width: 1.5; animation: edge 3.6s ease-in-out infinite; }
-@keyframes edge { 0%, 100% { stroke-opacity: .3; } 50% { stroke-opacity: .95; } }
-.ttl { font-family: 'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 18.5px; font-weight: 700; fill: #F8F8F2; }
-.cap { font-family: 'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14.5px; fill: #A9B1D6; }
-.lbl { font-family: 'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 8.5px; font-weight: 700; letter-spacing: .6px; }
-/* IA */
-.syn { stroke: #BD93F9; stroke-opacity: .18; stroke-width: 1.2; }
-.flow { stroke: #BD93F9; stroke-width: 2; stroke-linecap: round; stroke-dasharray: 3 22; animation: flow 1.4s linear infinite; }
-@keyframes flow { to { stroke-dashoffset: -25; } }
-.node { fill: #282A36; stroke: #BD93F9; stroke-width: 2; animation: node 2.1s ease-in-out infinite; }
-@keyframes node { 0%, 100% { fill: #282A36; } 40% { fill: #BD93F9; } }
-/* Dados */
+@font-face { font-family: 'OrGrotesk'; font-weight: 700; font-style: normal; src: url(data:font/woff2;base64,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) format('woff2'); }
+@font-face { font-family: 'OrInter'; font-weight: 400; font-style: normal; src: url(data:font/woff2;base64,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) format('woff2'); }
+@font-face { font-family: 'OrMono'; font-weight: 400; font-style: normal; src: url(data:font/woff2;base64,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) format('woff2'); }
+.flow { stroke-dasharray: 3 21; animation: flow 1.3s linear infinite; }
+@keyframes flow { to { stroke-dashoffset: -24; } }
+.node { animation: node 2.4s cubic-bezier(.65,0,.35,1) infinite; }
+@keyframes node { 0%, 100% { fill: #0F0F12; } 35%, 55% { fill: #F58549; } }
 .bar { transform-box: fill-box; transform-origin: 50% 100%; }
-.trend { stroke: #FF79C6; stroke-width: 2.5; stroke-linecap: round; stroke-linejoin: round; fill: none;
-          stroke-dasharray: 260; animation: draw 4.5s ease-in-out infinite; }
-@keyframes draw { 0% { stroke-dashoffset: 260; opacity: 1; } 55%, 85% { stroke-dashoffset: 0; opacity: 1; } 100% { stroke-dashoffset: 0; opacity: 0; } }
-.pt { fill: #FF79C6; transform-box: fill-box; transform-origin: center; animation: pop 4.5s ease-in-out infinite; }
-@keyframes pop { 0%, 50% { transform: scale(0); } 58%, 85% { transform: scale(1); } 100% { transform: scale(0); } }
-/* Banco */
-.seg { fill: #50FA7B; animation: seg 2.4s ease-in-out infinite; }
-@keyframes seg { 0%, 100% { fill-opacity: .10; } 30% { fill-opacity: .55; } }
-.rec { fill: #50FA7B; animation: drop 2.4s ease-in infinite; }
-@keyframes drop { 0% { transform: translateY(-20px); opacity: 0; } 30% { opacity: 1; } 80% { transform: translateY(8px); opacity: 1; } 100% { transform: translateY(12px); opacity: 0; } }
-.scan { animation: scan 2.4s ease-in-out infinite; }
-@keyframes scan { 0%, 100% { transform: translateX(-6px); opacity: .25; } 50% { transform: translateX(6px); opacity: .8; } }
-/* Kanban */
-.task { fill: #44475A; }
-.mover { animation: move 7s cubic-bezier(.65,0,.35,1) infinite; }
-@keyframes move {
-  0%, 18% { transform: translate(0, 0); opacity: 1; }
-  24% { transform: translate(35px, -9px); }
-  30%, 50% { transform: translate(70px, 0); }
-  56% { transform: translate(105px, -9px); }
-  62%, 88% { transform: translate(140px, 0); opacity: 1; }
-  95% { transform: translate(140px, 0); opacity: 0; }
-  96% { transform: translate(0, 0); opacity: 0; }
-  100% { transform: translate(0, 0); opacity: 1; }
-}
-.check { stroke: #50FA7B; stroke-width: 2; fill: none; stroke-linecap: round; stroke-linejoin: round;
-          stroke-dasharray: 14; animation: check 7s ease-in-out infinite; }
-@keyframes check { 0%, 66% { stroke-dashoffset: 14; } 74%, 88% { stroke-dashoffset: 0; opacity: 1; } 95%, 100% { stroke-dashoffset: 0; opacity: 0; } }
-
-@keyframes b0 { from { transform: scaleY(0.58); } to { transform: scaleY(1); } }
-@keyframes b1 { from { transform: scaleY(0.55); } to { transform: scaleY(1); } }
-@keyframes b2 { from { transform: scaleY(0.42); } to { transform: scaleY(1); } }
-@keyframes b3 { from { transform: scaleY(0.40); } to { transform: scaleY(1); } }
-@keyframes b4 { from { transform: scaleY(0.48); } to { transform: scaleY(1); } }
-@keyframes b5 { from { transform: scaleY(0.56); } to { transform: scaleY(1); } }
+.trend { stroke-dasharray: 240; animation: draw 4.8s cubic-bezier(.22,1,.36,1) infinite; }
+@keyframes draw { 0% { stroke-dashoffset: 240; opacity: 1; } 55%, 88% { stroke-dashoffset: 0; opacity: 1; } 100% { stroke-dashoffset: 0; opacity: 0; } }
+.scan { animation: scan 4s steps(1, end) infinite; }
+@keyframes scan { 0% { transform: translateY(0); } 20% { transform: translateY(24px); } 40% { transform: translateY(48px); } 60% { transform: translateY(72px); } 80% { transform: translateY(96px); } 100% { transform: translateY(0); } }
+.mover { animation: move 7.2s cubic-bezier(.65,0,.35,1) infinite; }
+@keyframes move { 0%, 16% { transform: translate(0, 0); opacity: 1; } 22% { transform: translate(30px, -8px); } 28%, 48% { transform: translate(60px, 0); } 54% { transform: translate(90px, -8px); } 60%, 88% { transform: translate(120px, 0); opacity: 1; } 94% { transform: translate(120px, 0); opacity: 0; } 95% { transform: translate(0, 0); opacity: 0; } 100% { transform: translate(0, 0); opacity: 1; } }
+.check { stroke-dasharray: 16; animation: check 7.2s ease-out infinite; }
+@keyframes check { 0%, 62% { stroke-dashoffset: 16; } 70%, 88% { stroke-dashoffset: 0; opacity: 1; } 94%, 100% { stroke-dashoffset: 0; opacity: 0; } }
+@keyframes on0 { 0% { opacity: 1; } 0.000% { opacity: 1; } 25.000%, 100% { opacity: 0; } }
+.on0 { opacity: 0; animation: on0 10.0s step-end infinite; }
+@keyframes tt0 { 0% { fill: #F0EBDB; } 0.000% { fill: #F0EBDB; } 25.000%, 100% { fill: #9C9588; } }
+.tt0 { animation: tt0 10.0s step-end infinite; }
+@keyframes nn0 { 0% { fill: #F58549; } 0.000% { fill: #F58549; } 25.000%, 100% { fill: #6B6B74; } }
+.nn0 { animation: nn0 10.0s step-end infinite; }
+@keyframes on1 { 0% { opacity: 0; } 25.000% { opacity: 1; } 50.000%, 100% { opacity: 0; } }
+.on1 { opacity: 0; animation: on1 10.0s step-end infinite; }
+@keyframes tt1 { 0% { fill: #9C9588; } 25.000% { fill: #F0EBDB; } 50.000%, 100% { fill: #9C9588; } }
+.tt1 { animation: tt1 10.0s step-end infinite; }
+@keyframes nn1 { 0% { fill: #6B6B74; } 25.000% { fill: #F58549; } 50.000%, 100% { fill: #6B6B74; } }
+.nn1 { animation: nn1 10.0s step-end infinite; }
+@keyframes b0 { from { transform: scaleY(0.44); } to { transform: scaleY(1); } }
+@keyframes b1 { from { transform: scaleY(0.41); } to { transform: scaleY(1); } }
+@keyframes b2 { from { transform: scaleY(0.41); } to { transform: scaleY(1); } }
+@keyframes b3 { from { transform: scaleY(0.61); } to { transform: scaleY(1); } }
+@keyframes b4 { from { transform: scaleY(0.52); } to { transform: scaleY(1); } }
+@keyframes b5 { from { transform: scaleY(0.47); } to { transform: scaleY(1); } }
+@keyframes on2 { 0% { opacity: 0; } 50.000% { opacity: 1; } 75.000%, 100% { opacity: 0; } }
+.on2 { opacity: 0; animation: on2 10.0s step-end infinite; }
+@keyframes tt2 { 0% { fill: #9C9588; } 50.000% { fill: #F0EBDB; } 75.000%, 100% { fill: #9C9588; } }
+.tt2 { animation: tt2 10.0s step-end infinite; }
+@keyframes nn2 { 0% { fill: #6B6B74; } 50.000% { fill: #F58549; } 75.000%, 100% { fill: #6B6B74; } }
+.nn2 { animation: nn2 10.0s step-end infinite; }
+@keyframes on3 { 0% { opacity: 0; } 75.000% { opacity: 1; } 100.000%, 100% { opacity: 0; } }
+.on3 { opacity: 0; animation: on3 10.0s step-end infinite; }
+@keyframes tt3 { 0% { fill: #9C9588; } 75.000% { fill: #F0EBDB; } 100.000%, 100% { fill: #9C9588; } }
+.tt3 { animation: tt3 10.0s step-end infinite; }
+@keyframes nn3 { 0% { fill: #6B6B74; } 75.000% { fill: #F58549; } 100.000%, 100% { fill: #6B6B74; } }
+.nn3 { animation: nn3 10.0s step-end infinite; }
 @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
 </style>
-<defs>
-
-</defs>
-<g transform="translate(4,4)">
-<rect class="card" width="240" height="218" rx="16"/>
-<rect class="edge" x=".75" y=".75" width="238.5" height="216.5" rx="15.25" stroke="#BD93F9" style="animation-delay:-0.0s"/>
-<rect x="94.0" y="0" width="52" height="3" rx="1.5" fill="#BD93F9"/>
-<line class="syn" x1="58" y1="44" x2="120" y2="32"/>
-<line class="flow" x1="58" y1="44" x2="120" y2="32" style="animation-delay:-0.11s"/>
-<line class="syn" x1="58" y1="44" x2="120" y2="60"/>
-<line class="flow" x1="58" y1="44" x2="120" y2="60" style="animation-delay:-0.21s"/>
-<line class="syn" x1="58" y1="44" x2="120" y2="88"/>
-<line class="flow" x1="58" y1="44" x2="120" y2="88" style="animation-delay:-0.36s"/>
-<line class="syn" x1="58" y1="44" x2="120" y2="116"/>
-<line class="flow" x1="58" y1="44" x2="120" y2="116" style="animation-delay:-1.04s"/>
-<line class="syn" x1="58" y1="76" x2="120" y2="32"/>
-<line class="flow" x1="58" y1="76" x2="120" y2="32" style="animation-delay:-0.43s"/>
-<line class="syn" x1="58" y1="76" x2="120" y2="60"/>
-<line class="flow" x1="58" y1="76" x2="120" y2="60" style="animation-delay:-0.79s"/>
-<line class="syn" x1="58" y1="76" x2="120" y2="88"/>
-<line class="flow" x1="58" y1="76" x2="120" y2="88" style="animation-delay:-0.02s"/>
-<line class="syn" x1="58" y1="76" x2="120" y2="116"/>
-<line class="flow" x1="58" y1="76" x2="120" y2="116" style="animation-delay:-0.08s"/>
-<line class="syn" x1="58" y1="108" x2="120" y2="32"/>
-<line class="flow" x1="58" y1="108" x2="120" y2="32" style="animation-delay:-0.38s"/>
-<line class="syn" x1="58" y1="108" x2="120" y2="60"/>
-<line class="flow" x1="58" y1="108" x2="120" y2="60" style="animation-delay:-0.94s"/>
-<line class="syn" x1="58" y1="108" x2="120" y2="88"/>
-<line class="flow" x1="58" y1="108" x2="120" y2="88" style="animation-delay:-0.97s"/>
-<line class="syn" x1="58" y1="108" x2="120" y2="116"/>
-<line class="flow" x1="58" y1="108" x2="120" y2="116" style="animation-delay:-0.95s"/>
-<line class="syn" x1="120" y1="32" x2="182" y2="56"/>
-<line class="flow" x1="120" y1="32" x2="182" y2="56" style="animation-delay:-0.41s"/>
-<line class="syn" x1="120" y1="32" x2="182" y2="92"/>
-<line class="flow" x1="120" y1="32" x2="182" y2="92" style="animation-delay:-0.72s"/>
-<line class="syn" x1="120" y1="60" x2="182" y2="56"/>
-<line class="flow" x1="120" y1="60" x2="182" y2="56" style="animation-delay:-0.65s"/>
-<line class="syn" x1="120" y1="60" x2="182" y2="92"/>
-<line class="flow" x1="120" y1="60" x2="182" y2="92" style="animation-delay:-0.65s"/>
-<line class="syn" x1="120" y1="88" x2="182" y2="56"/>
-<line class="flow" x1="120" y1="88" x2="182" y2="56" style="animation-delay:-0.17s"/>
-<line class="syn" x1="120" y1="88" x2="182" y2="92"/>
-<line class="flow" x1="120" y1="88" x2="182" y2="92" style="animation-delay:-1.25s"/>
-<line class="syn" x1="120" y1="116" x2="182" y2="56"/>
-<line class="flow" x1="120" y1="116" x2="182" y2="56" style="animation-delay:-0.28s"/>
-<line class="syn" x1="120" y1="116" x2="182" y2="92"/>
-<line class="flow" x1="120" y1="116" x2="182" y2="92" style="animation-delay:-1.37s"/>
-<circle class="node" cx="58" cy="44" r="7.5" style="animation-delay:0.00s"/>
-<circle class="node" cx="58" cy="76" r="7.5" style="animation-delay:0.00s"/>
-<circle class="node" cx="58" cy="108" r="7.5" style="animation-delay:0.00s"/>
-<circle class="node" cx="120" cy="32" r="7.5" style="animation-delay:0.45s"/>
-<circle class="node" cx="120" cy="60" r="7.5" style="animation-delay:0.45s"/>
-<circle class="node" cx="120" cy="88" r="7.5" style="animation-delay:0.45s"/>
-<circle class="node" cx="120" cy="116" r="7.5" style="animation-delay:0.45s"/>
-<circle class="node" cx="182" cy="56" r="7.5" style="animation-delay:0.90s"/>
-<circle class="node" cx="182" cy="92" r="7.5" style="animation-delay:0.90s"/>
-<text class="ttl" x="120.0" y="168" text-anchor="middle">Inteligência Artificial</text>
-<text class="cap" x="120.0" y="192" text-anchor="middle">Soluções mais inteligentes</text>
+<defs></defs>
+<rect width="1000" height="464" fill="#0F0F12"/>
+<g transform="translate(0,0)">
+<rect class="on0" width="500" height="232" fill="#16161A"/>
+<rect class="on0" width="110" height="3" fill="#F58549"/>
+<text x="28.0" y="46.0" font-family="'OrMono', 'JetBrains Mono', ui-monospace, Menlo, Consolas, monospace" font-weight="400" font-size="13" fill="#6B6B74" class="nn0" xml:space="preserve">01</text>
+<text x="28.0" y="88.0" font-family="'OrGrotesk', 'Space Grotesk', system-ui, sans-serif" font-weight="700" font-size="26" fill="#9C9588" letter-spacing="-0.3" class="tt0" xml:space="preserve">Inteligência Artificial</text>
+<text x="28.0" y="122.0" font-family="'OrInter', Inter, system-ui, 'Segoe UI', sans-serif" font-weight="400" font-size="15" fill="#B8B0A0" xml:space="preserve">Uso IA para construir soluções</text>
+<text x="28.0" y="145.0" font-family="'OrInter', Inter, system-ui, 'Segoe UI', sans-serif" font-weight="400" font-size="15" fill="#B8B0A0" xml:space="preserve">mais inteligentes e produtivas.</text>
+<g transform="translate(300,40)">
+<path d="M10 26L86 14" stroke="#3A3A42"/>
+<path class="flow" d="M10 26L86 14" stroke="#F58549" stroke-width="2" style="animation-delay:-0.59s"/>
+<path d="M10 26L86 56" stroke="#3A3A42"/>
+<path class="flow" d="M10 26L86 56" stroke="#F58549" stroke-width="2" style="animation-delay:-0.73s"/>
+<path d="M10 26L86 98" stroke="#3A3A42"/>
+<path class="flow" d="M10 26L86 98" stroke="#F58549" stroke-width="2" style="animation-delay:-1.20s"/>
+<path d="M10 26L86 140" stroke="#3A3A42"/>
+<path class="flow" d="M10 26L86 140" stroke="#F58549" stroke-width="2" style="animation-delay:-0.61s"/>
+<path d="M10 76L86 14" stroke="#3A3A42"/>
+<path class="flow" d="M10 76L86 14" stroke="#F58549" stroke-width="2" style="animation-delay:-0.66s"/>
+<path d="M10 76L86 56" stroke="#3A3A42"/>
+<path class="flow" d="M10 76L86 56" stroke="#F58549" stroke-width="2" style="animation-delay:-0.76s"/>
+<path d="M10 76L86 98" stroke="#3A3A42"/>
+<path class="flow" d="M10 76L86 98" stroke="#F58549" stroke-width="2" style="animation-delay:-0.24s"/>
+<path d="M10 76L86 140" stroke="#3A3A42"/>
+<path class="flow" d="M10 76L86 140" stroke="#F58549" stroke-width="2" style="animation-delay:-0.67s"/>
+<path d="M10 126L86 14" stroke="#3A3A42"/>
+<path class="flow" d="M10 126L86 14" stroke="#F58549" stroke-width="2" style="animation-delay:-0.82s"/>
+<path d="M10 126L86 56" stroke="#3A3A42"/>
+<path class="flow" d="M10 126L86 56" stroke="#F58549" stroke-width="2" style="animation-delay:-1.03s"/>
+<path d="M10 126L86 98" stroke="#3A3A42"/>
+<path class="flow" d="M10 126L86 98" stroke="#F58549" stroke-width="2" style="animation-delay:-0.12s"/>
+<path d="M10 126L86 140" stroke="#3A3A42"/>
+<path class="flow" d="M10 126L86 140" stroke="#F58549" stroke-width="2" style="animation-delay:-0.39s"/>
+<path d="M86 14L162 50" stroke="#3A3A42"/>
+<path class="flow" d="M86 14L162 50" stroke="#F58549" stroke-width="2" style="animation-delay:-0.12s"/>
+<path d="M86 14L162 102" stroke="#3A3A42"/>
+<path class="flow" d="M86 14L162 102" stroke="#F58549" stroke-width="2" style="animation-delay:-1.05s"/>
+<path d="M86 56L162 50" stroke="#3A3A42"/>
+<path class="flow" d="M86 56L162 50" stroke="#F58549" stroke-width="2" style="animation-delay:-0.90s"/>
+<path d="M86 56L162 102" stroke="#3A3A42"/>
+<path class="flow" d="M86 56L162 102" stroke="#F58549" stroke-width="2" style="animation-delay:-0.05s"/>
+<path d="M86 98L162 50" stroke="#3A3A42"/>
+<path class="flow" d="M86 98L162 50" stroke="#F58549" stroke-width="2" style="animation-delay:-1.28s"/>
+<path d="M86 98L162 102" stroke="#3A3A42"/>
+<path class="flow" d="M86 98L162 102" stroke="#F58549" stroke-width="2" style="animation-delay:-1.25s"/>
+<path d="M86 140L162 50" stroke="#3A3A42"/>
+<path class="flow" d="M86 140L162 50" stroke="#F58549" stroke-width="2" style="animation-delay:-0.85s"/>
+<path d="M86 140L162 102" stroke="#3A3A42"/>
+<path class="flow" d="M86 140L162 102" stroke="#F58549" stroke-width="2" style="animation-delay:-0.80s"/>
+<rect class="node" x="4" y="20" width="12" height="12" fill="#0F0F12" stroke="#F58549" stroke-width="1.5" style="animation-delay:0.0s"/>
+<rect class="node" x="4" y="70" width="12" height="12" fill="#0F0F12" stroke="#F58549" stroke-width="1.5" style="animation-delay:0.0s"/>
+<rect class="node" x="4" y="120" width="12" height="12" fill="#0F0F12" stroke="#F58549" stroke-width="1.5" style="animation-delay:0.0s"/>
+<rect class="node" x="80" y="8" width="12" height="12" fill="#0F0F12" stroke="#F58549" stroke-width="1.5" style="animation-delay:0.4s"/>
+<rect class="node" x="80" y="50" width="12" height="12" fill="#0F0F12" stroke="#F58549" stroke-width="1.5" style="animation-delay:0.4s"/>
+<rect class="node" x="80" y="92" width="12" height="12" fill="#0F0F12" stroke="#F58549" stroke-width="1.5" style="animation-delay:0.4s"/>
+<rect class="node" x="80" y="134" width="12" height="12" fill="#0F0F12" stroke="#F58549" stroke-width="1.5" style="animation-delay:0.4s"/>
+<rect class="node" x="156" y="44" width="12" height="12" fill="#0F0F12" stroke="#F58549" stroke-width="1.5" style="animation-delay:0.8s"/>
+<rect class="node" x="156" y="96" width="12" height="12" fill="#0F0F12" stroke="#F58549" stroke-width="1.5" style="animation-delay:0.8s"/>
 </g>
-<g transform="translate(264,4)">
-<rect class="card" width="240" height="218" rx="16"/>
-<rect class="edge" x=".75" y=".75" width="238.5" height="216.5" rx="15.25" stroke="#8BE9FD" style="animation-delay:-0.9s"/>
-<rect x="94.0" y="0" width="52" height="3" rx="1.5" fill="#8BE9FD"/>
-<path d="M28 122H212" stroke="#44475A" stroke-width="1.5"/>
-<path d="M28 92H212" stroke="#44475A" stroke-opacity=".45" stroke-dasharray="3 5"/>
-<path d="M28 62H212" stroke="#44475A" stroke-opacity=".45" stroke-dasharray="3 5"/>
-<path d="M28 32H212" stroke="#44475A" stroke-opacity=".45" stroke-dasharray="3 5"/>
-<rect class="bar" x="38" y="76" width="17" height="46" rx="3" fill="#8BE9FD" fill-opacity="0.45" style="animation:b0 2.22s ease-in-out -0.92s infinite alternate"/>
-<rect class="bar" x="67" y="50" width="17" height="72" rx="3" fill="#8BE9FD" fill-opacity="0.54" style="animation:b1 3.36s ease-in-out -0.90s infinite alternate"/>
-<rect class="bar" x="96" y="64" width="17" height="58" rx="3" fill="#8BE9FD" fill-opacity="0.63" style="animation:b2 2.45s ease-in-out -1.89s infinite alternate"/>
-<rect class="bar" x="125" y="34" width="17" height="88" rx="3" fill="#8BE9FD" fill-opacity="0.72" style="animation:b3 2.90s ease-in-out -0.28s infinite alternate"/>
-<rect class="bar" x="154" y="56" width="17" height="66" rx="3" fill="#8BE9FD" fill-opacity="0.81" style="animation:b4 3.34s ease-in-out -0.27s infinite alternate"/>
-<rect class="bar" x="183" y="24" width="17" height="98" rx="3" fill="#8BE9FD" fill-opacity="0.90" style="animation:b5 2.81s ease-in-out -1.77s infinite alternate"/>
-<polyline class="trend" points="46,92 75,74 104,82 133,52 162,60 191,30"/>
-<circle class="pt" cx="46" cy="92" r="3.5"/>
-<circle class="pt" cx="75" cy="74" r="3.5"/>
-<circle class="pt" cx="104" cy="82" r="3.5"/>
-<circle class="pt" cx="133" cy="52" r="3.5"/>
-<circle class="pt" cx="162" cy="60" r="3.5"/>
-<circle class="pt" cx="191" cy="30" r="3.5"/>
-<text class="ttl" x="120.0" y="168" text-anchor="middle">Análise de Dados</text>
-<text class="cap" x="120.0" y="192" text-anchor="middle">Dados que viram insights</text>
 </g>
-<g transform="translate(524,4)">
-<rect class="card" width="240" height="218" rx="16"/>
-<rect class="edge" x=".75" y=".75" width="238.5" height="216.5" rx="15.25" stroke="#50FA7B" style="animation-delay:-1.8s"/>
-<rect x="94.0" y="0" width="52" height="3" rx="1.5" fill="#50FA7B"/>
-<path d="M70,42 A50,13 0 0 0 170,42 V68 A50,13 0 0 1 70,68 Z" fill="#21222C" stroke="#50FA7B" stroke-opacity=".7" stroke-width="1.6"/>
-<path class="seg" d="M70,42 A50,13 0 0 0 170,42 V68 A50,13 0 0 1 70,68 Z" style="animation-delay:0.00s"/>
-<rect class="scan" x="92" y="59.0" width="56" height="3" rx="1.5" fill="#50FA7B" style="animation-delay:0.00s"/>
-<path d="M70,72 A50,13 0 0 0 170,72 V98 A50,13 0 0 1 70,98 Z" fill="#21222C" stroke="#50FA7B" stroke-opacity=".7" stroke-width="1.6"/>
-<path class="seg" d="M70,72 A50,13 0 0 0 170,72 V98 A50,13 0 0 1 70,98 Z" style="animation-delay:0.35s"/>
-<rect class="scan" x="92" y="89.0" width="56" height="3" rx="1.5" fill="#50FA7B" style="animation-delay:0.35s"/>
-<path d="M70,102 A50,13 0 0 0 170,102 V128 A50,13 0 0 1 70,128 Z" fill="#21222C" stroke="#50FA7B" stroke-opacity=".7" stroke-width="1.6"/>
-<path class="seg" d="M70,102 A50,13 0 0 0 170,102 V128 A50,13 0 0 1 70,128 Z" style="animation-delay:0.70s"/>
-<rect class="scan" x="92" y="119.0" width="56" height="3" rx="1.5" fill="#50FA7B" style="animation-delay:0.70s"/>
-<ellipse cx="120" cy="42" rx="50" ry="13" fill="#282A36" stroke="#50FA7B" stroke-width="1.6"/>
-<ellipse cx="120" cy="42" rx="36" ry="8" fill="#50FA7B" fill-opacity=".18"/>
-<rect class="rec" x="97" y="30" width="10" height="10" rx="2.5" style="animation-delay:0.00s"/>
-<rect class="rec" x="115" y="30" width="10" height="10" rx="2.5" style="animation-delay:0.80s"/>
-<rect class="rec" x="133" y="30" width="10" height="10" rx="2.5" style="animation-delay:1.60s"/>
-<text class="lbl" x="34" y="78" fill="#50FA7B" fill-opacity=".8">SQL</text>
-<text class="lbl" x="180" y="112" fill="#50FA7B" fill-opacity=".8">NoSQL</text>
-<text class="ttl" x="120.0" y="168" text-anchor="middle">Banco de Dados</text>
-<text class="cap" x="120.0" y="192" text-anchor="middle">SQL e NoSQL</text>
+<g transform="translate(500,0)">
+<rect class="on1" width="500" height="232" fill="#16161A"/>
+<rect class="on1" width="110" height="3" fill="#F58549"/>
+<text x="28.0" y="46.0" font-family="'OrMono', 'JetBrains Mono', ui-monospace, Menlo, Consolas, monospace" font-weight="400" font-size="13" fill="#6B6B74" class="nn1" xml:space="preserve">02</text>
+<text x="28.0" y="88.0" font-family="'OrGrotesk', 'Space Grotesk', system-ui, sans-serif" font-weight="700" font-size="26" fill="#9C9588" letter-spacing="-0.3" class="tt1" xml:space="preserve">Análise de Dados</text>
+<text x="28.0" y="122.0" font-family="'OrInter', Inter, system-ui, 'Segoe UI', sans-serif" font-weight="400" font-size="15" fill="#B8B0A0" xml:space="preserve">Transformo dados em insights</text>
+<text x="28.0" y="145.0" font-family="'OrInter', Inter, system-ui, 'Segoe UI', sans-serif" font-weight="400" font-size="15" fill="#B8B0A0" xml:space="preserve">que ajudam a decidir melhor.</text>
+<g transform="translate(300,40)">
+<path d="M0 150.5H172" stroke="#3A3A42"/>
+<path d="M0 114.5H172" stroke="#1F1F26" stroke-dasharray="2 4"/>
+<path d="M0 78.5H172" stroke="#1F1F26" stroke-dasharray="2 4"/>
+<path d="M0 42.5H172" stroke="#1F1F26" stroke-dasharray="2 4"/>
+<rect class="bar" x="4" y="98" width="18" height="52" fill="#9C4416" style="animation: b0 2.22s cubic-bezier(.65,0,.35,1) -1.06s infinite alternate"/>
+<rect class="bar" x="32" y="68" width="18" height="82" fill="#B85A24" style="animation: b1 2.43s cubic-bezier(.65,0,.35,1) -0.48s infinite alternate"/>
+<rect class="bar" x="60" y="84" width="18" height="66" fill="#D4622A" style="animation: b2 2.76s cubic-bezier(.65,0,.35,1) -0.88s infinite alternate"/>
+<rect class="bar" x="88" y="46" width="18" height="104" fill="#F58549" style="animation: b3 2.82s cubic-bezier(.65,0,.35,1) -1.28s infinite alternate"/>
+<rect class="bar" x="116" y="62" width="18" height="88" fill="#F8A675" style="animation: b4 2.99s cubic-bezier(.65,0,.35,1) -0.91s infinite alternate"/>
+<rect class="bar" x="144" y="20" width="18" height="130" fill="#9C4416" style="animation: b5 3.40s cubic-bezier(.65,0,.35,1) -1.99s infinite alternate"/>
+<polyline class="trend" points="13,104 41,82 69,92 97,58 125,66 153,26" stroke="#F0EBDB" stroke-width="2" fill="none" stroke-linejoin="miter"/>
+<rect x="10" y="101" width="6" height="6" fill="#F0EBDB"/>
+<rect x="38" y="79" width="6" height="6" fill="#F0EBDB"/>
+<rect x="66" y="89" width="6" height="6" fill="#F0EBDB"/>
+<rect x="94" y="55" width="6" height="6" fill="#F0EBDB"/>
+<rect x="122" y="63" width="6" height="6" fill="#F0EBDB"/>
+<rect x="150" y="23" width="6" height="6" fill="#F0EBDB"/>
 </g>
-<g transform="translate(784,4)">
-<rect class="card" width="240" height="218" rx="16"/>
-<rect class="edge" x=".75" y=".75" width="238.5" height="216.5" rx="15.25" stroke="#FFB86C" style="animation-delay:-2.7s"/>
-<rect x="94.0" y="0" width="52" height="3" rx="1.5" fill="#FFB86C"/>
-<rect x="18" y="22" width="64" height="104" rx="7" fill="#21222C"/>
-<text class="lbl" x="50" y="37" text-anchor="middle" fill="#FFB86C">A FAZER</text>
-<rect x="88" y="22" width="64" height="104" rx="7" fill="#21222C"/>
-<text class="lbl" x="120" y="37" text-anchor="middle" fill="#FFB86C">FAZENDO</text>
-<rect x="158" y="22" width="64" height="104" rx="7" fill="#21222C"/>
-<text class="lbl" x="190" y="37" text-anchor="middle" fill="#FFB86C">FEITO</text>
-<rect class="task" x="23" y="46" width="54" height="20" rx="4"/>
-<rect x="29" y="51" width="30" height="3" rx="1.5" fill="#F8F8F2" opacity=".35"/>
-<rect x="29" y="57" width="20" height="3" rx="1.5" fill="#F8F8F2" opacity=".2"/>
-<rect class="task" x="23" y="98" width="54" height="20" rx="4"/>
-<rect x="29" y="103" width="30" height="3" rx="1.5" fill="#F8F8F2" opacity=".35"/>
-<rect x="29" y="109" width="20" height="3" rx="1.5" fill="#F8F8F2" opacity=".2"/>
-<rect class="task" x="93" y="46" width="54" height="20" rx="4"/>
-<rect x="99" y="51" width="30" height="3" rx="1.5" fill="#F8F8F2" opacity=".35"/>
-<rect x="99" y="57" width="20" height="3" rx="1.5" fill="#F8F8F2" opacity=".2"/>
-<rect class="task" x="93" y="98" width="54" height="20" rx="4"/>
-<rect x="99" y="103" width="30" height="3" rx="1.5" fill="#F8F8F2" opacity=".35"/>
-<rect x="99" y="109" width="20" height="3" rx="1.5" fill="#F8F8F2" opacity=".2"/>
-<rect class="task" x="163" y="46" width="54" height="20" rx="4"/>
-<rect x="169" y="51" width="30" height="3" rx="1.5" fill="#F8F8F2" opacity=".35"/>
-<rect x="169" y="57" width="20" height="3" rx="1.5" fill="#F8F8F2" opacity=".2"/>
-<g class="mover"><rect x="23" y="72" width="54" height="20" rx="4" fill="#FFB86C"/><rect x="29" y="77" width="30" height="3" rx="1.5" fill="#191A21" opacity=".7"/><rect x="29" y="83" width="20" height="3" rx="1.5" fill="#191A21" opacity=".5"/><path class="check" d="M61 82l3.5 3.5 6-7"/></g>
-<text class="ttl" x="120.0" y="168" text-anchor="middle">Kanban &amp; Ágil</text>
-<text class="cap" x="120.0" y="192" text-anchor="middle">Fluxo organizado</text>
 </g>
+<g transform="translate(0,232)">
+<rect class="on2" width="500" height="232" fill="#16161A"/>
+<rect class="on2" width="110" height="3" fill="#F58549"/>
+<text x="28.0" y="46.0" font-family="'OrMono', 'JetBrains Mono', ui-monospace, Menlo, Consolas, monospace" font-weight="400" font-size="13" fill="#6B6B74" class="nn2" xml:space="preserve">03</text>
+<text x="28.0" y="88.0" font-family="'OrGrotesk', 'Space Grotesk', system-ui, sans-serif" font-weight="700" font-size="26" fill="#9C9588" letter-spacing="-0.3" class="tt2" xml:space="preserve">Banco de Dados</text>
+<text x="28.0" y="122.0" font-family="'OrInter', Inter, system-ui, 'Segoe UI', sans-serif" font-weight="400" font-size="15" fill="#B8B0A0" xml:space="preserve">Modelagem e consultas em</text>
+<text x="28.0" y="145.0" font-family="'OrInter', Inter, system-ui, 'Segoe UI', sans-serif" font-weight="400" font-size="15" fill="#B8B0A0" xml:space="preserve">bancos SQL e NoSQL.</text>
+<g transform="translate(300,40)">
+<text x="0.0" y="10.0" font-family="'OrMono', 'JetBrains Mono', ui-monospace, Menlo, Consolas, monospace" font-weight="400" font-size="11" fill="#B8B0A0" xml:space="preserve">SELECT * FROM projetos;</text>
+<rect x="0" y="22" width="172" height="140" fill="#0F0F12" stroke="#3A3A42"/>
+<rect x="0" y="22" width="172" height="20" fill="#1C1C21"/>
+<text x="8.0" y="36.0" font-family="'OrMono', 'JetBrains Mono', ui-monospace, Menlo, Consolas, monospace" font-weight="400" font-size="9" fill="#9C9588" letter-spacing="1" xml:space="preserve">ID</text>
+<text x="64.0" y="36.0" font-family="'OrMono', 'JetBrains Mono', ui-monospace, Menlo, Consolas, monospace" font-weight="400" font-size="9" fill="#9C9588" letter-spacing="1" xml:space="preserve">NOME</text>
+<text x="120.0" y="36.0" font-family="'OrMono', 'JetBrains Mono', ui-monospace, Menlo, Consolas, monospace" font-weight="400" font-size="9" fill="#9C9588" letter-spacing="1" xml:space="preserve">TIPO</text>
+<g class="scan"><rect x="0" y="42" width="172" height="24" fill="#F58549" fill-opacity=".16"/><rect x="0" y="42" width="3" height="24" fill="#F58549"/></g>
+<path d="M0 42.5H172" stroke="#2A2A30"/>
+<text x="8.0" y="58.0" font-family="'OrMono', 'JetBrains Mono', ui-monospace, Menlo, Consolas, monospace" font-weight="400" font-size="10" fill="#B8B0A0" xml:space="preserve">01</text>
+<rect x="64" y="51" width="30" height="6" fill="#3A3A42"/>
+<rect x="120" y="51" width="30" height="6" fill="#B85A24" fill-opacity=".8"/>
+<path d="M0 66.5H172" stroke="#2A2A30"/>
+<text x="8.0" y="82.0" font-family="'OrMono', 'JetBrains Mono', ui-monospace, Menlo, Consolas, monospace" font-weight="400" font-size="10" fill="#B8B0A0" xml:space="preserve">02</text>
+<rect x="64" y="75" width="44" height="6" fill="#3A3A42"/>
+<rect x="120" y="75" width="24" height="6" fill="#D4622A" fill-opacity=".8"/>
+<path d="M0 90.5H172" stroke="#2A2A30"/>
+<text x="8.0" y="106.0" font-family="'OrMono', 'JetBrains Mono', ui-monospace, Menlo, Consolas, monospace" font-weight="400" font-size="10" fill="#B8B0A0" xml:space="preserve">03</text>
+<rect x="64" y="99" width="38" height="6" fill="#3A3A42"/>
+<rect x="120" y="99" width="30" height="6" fill="#F58549" fill-opacity=".8"/>
+<path d="M0 114.5H172" stroke="#2A2A30"/>
+<text x="8.0" y="130.0" font-family="'OrMono', 'JetBrains Mono', ui-monospace, Menlo, Consolas, monospace" font-weight="400" font-size="10" fill="#B8B0A0" xml:space="preserve">04</text>
+<rect x="64" y="123" width="44" height="6" fill="#3A3A42"/>
+<rect x="120" y="123" width="18" height="6" fill="#F8A675" fill-opacity=".8"/>
+<path d="M0 138.5H172" stroke="#2A2A30"/>
+<text x="8.0" y="154.0" font-family="'OrMono', 'JetBrains Mono', ui-monospace, Menlo, Consolas, monospace" font-weight="400" font-size="10" fill="#B8B0A0" xml:space="preserve">05</text>
+<rect x="64" y="147" width="30" height="6" fill="#3A3A42"/>
+<rect x="120" y="147" width="30" height="6" fill="#B85A24" fill-opacity=".8"/>
+</g>
+</g>
+<g transform="translate(500,232)">
+<rect class="on3" width="500" height="232" fill="#16161A"/>
+<rect class="on3" width="110" height="3" fill="#F58549"/>
+<text x="28.0" y="46.0" font-family="'OrMono', 'JetBrains Mono', ui-monospace, Menlo, Consolas, monospace" font-weight="400" font-size="13" fill="#6B6B74" class="nn3" xml:space="preserve">04</text>
+<text x="28.0" y="88.0" font-family="'OrGrotesk', 'Space Grotesk', system-ui, sans-serif" font-weight="700" font-size="26" fill="#9C9588" letter-spacing="-0.3" class="tt3" xml:space="preserve">Kanban e ágil</text>
+<text x="28.0" y="122.0" font-family="'OrInter', Inter, system-ui, 'Segoe UI', sans-serif" font-weight="400" font-size="15" fill="#B8B0A0" xml:space="preserve">Fluxo de trabalho organizado</text>
+<text x="28.0" y="145.0" font-family="'OrInter', Inter, system-ui, 'Segoe UI', sans-serif" font-weight="400" font-size="15" fill="#B8B0A0" xml:space="preserve">com Kanban e práticas ágeis.</text>
+<g transform="translate(300,40)">
+<rect x="0" y="18" width="52" height="142" fill="#0F0F12" stroke="#2A2A30"/>
+<text x="26.0" y="11.0" font-family="'OrMono', 'JetBrains Mono', ui-monospace, Menlo, Consolas, monospace" font-weight="400" font-size="8.5" fill="#9C9588" text-anchor="middle" letter-spacing="0.8" xml:space="preserve">A FAZER</text>
+<rect x="60" y="18" width="52" height="142" fill="#0F0F12" stroke="#2A2A30"/>
+<text x="86.0" y="11.0" font-family="'OrMono', 'JetBrains Mono', ui-monospace, Menlo, Consolas, monospace" font-weight="400" font-size="8.5" fill="#9C9588" text-anchor="middle" letter-spacing="0.8" xml:space="preserve">FAZENDO</text>
+<rect x="120" y="18" width="52" height="142" fill="#0F0F12" stroke="#2A2A30"/>
+<text x="146.0" y="11.0" font-family="'OrMono', 'JetBrains Mono', ui-monospace, Menlo, Consolas, monospace" font-weight="400" font-size="8.5" fill="#9C9588" text-anchor="middle" letter-spacing="0.8" xml:space="preserve">FEITO</text>
+<rect x="5" y="28" width="42" height="22" fill="#1C1C21" stroke="#3A3A42"/>
+<rect x="10" y="34" width="24" height="3" fill="#B8B0A0" fill-opacity=".5"/>
+<rect x="10" y="41" width="16" height="3" fill="#B8B0A0" fill-opacity=".3"/>
+<rect x="5" y="88" width="42" height="22" fill="#1C1C21" stroke="#3A3A42"/>
+<rect x="10" y="94" width="24" height="3" fill="#B8B0A0" fill-opacity=".5"/>
+<rect x="10" y="101" width="16" height="3" fill="#B8B0A0" fill-opacity=".3"/>
+<rect x="65" y="28" width="42" height="22" fill="#1C1C21" stroke="#3A3A42"/>
+<rect x="70" y="34" width="24" height="3" fill="#B8B0A0" fill-opacity=".5"/>
+<rect x="70" y="41" width="16" height="3" fill="#B8B0A0" fill-opacity=".3"/>
+<rect x="65" y="88" width="42" height="22" fill="#1C1C21" stroke="#3A3A42"/>
+<rect x="70" y="94" width="24" height="3" fill="#B8B0A0" fill-opacity=".5"/>
+<rect x="70" y="101" width="16" height="3" fill="#B8B0A0" fill-opacity=".3"/>
+<rect x="125" y="28" width="42" height="22" fill="#1C1C21" stroke="#3A3A42"/>
+<rect x="130" y="34" width="24" height="3" fill="#B8B0A0" fill-opacity=".5"/>
+<rect x="130" y="41" width="16" height="3" fill="#B8B0A0" fill-opacity=".3"/>
+<rect x="125" y="118" width="42" height="22" fill="#1C1C21" stroke="#3A3A42"/>
+<rect x="130" y="124" width="24" height="3" fill="#B8B0A0" fill-opacity=".5"/>
+<rect x="130" y="131" width="16" height="3" fill="#B8B0A0" fill-opacity=".3"/>
+<g class="mover"><rect x="5" y="58" width="42" height="22" fill="#F58549"/><rect x="10" y="64" width="24" height="3" fill="#0F0F12" fill-opacity=".7"/><rect x="10" y="71" width="16" height="3" fill="#0F0F12" fill-opacity=".5"/><path class="check" d="M33 69l3 3 6-7" stroke="#0F0F12" stroke-width="2"/></g>
+</g>
+</g>
+<path d="M500.5 0V464M0 232.5H1000" stroke="#2A2A30"/>
+<rect x=".5" y=".5" width="999" height="463" stroke="#2A2A30"/>
 </svg>
